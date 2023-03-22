@@ -1,0 +1,5524 @@
+1
+00:00:11,580 --> 00:00:14,638
+so welcome to this Global Network
+
+2
+00:00:14,638 --> 00:00:16,739
+webinar
+
+3
+00:00:16,739 --> 00:00:19,980
+um my name is Alexander loshke and I
+
+4
+00:00:19,980 --> 00:00:22,019
+will be moderating this webinar today
+
+5
+00:00:22,019 --> 00:00:24,899
+and as one of the rare exceptions I'm
+
+6
+00:00:24,899 --> 00:00:28,199
+actually also one of the speakers today
+
+7
+00:00:28,199 --> 00:00:31,920
+my co-moderators uh panya you and Sean
+
+8
+00:00:31,920 --> 00:00:33,899
+Lovell
+
+9
+00:00:33,899 --> 00:00:36,960
+today we have with us Jonathan
+
+10
+00:00:36,960 --> 00:00:40,679
+challainer from the oecd
+
+11
+00:00:40,679 --> 00:00:44,399
+siddish kaushik from the World Bank and
+
+12
+00:00:44,399 --> 00:00:47,659
+Abdullah godzalov and myself from UNSC
+
+13
+00:00:47,659 --> 00:00:51,719
+who will present the new sdmx user Forum
+
+14
+00:00:51,719 --> 00:00:54,079
+which is hosted on the global Network
+
+15
+00:00:54,079 --> 00:00:58,619
+and also sdmx capacity development
+
+16
+00:00:58,619 --> 00:01:00,600
+initiatives
+
+17
+00:01:00,600 --> 00:01:03,600
+so we will introduce the semx Uso Forum
+
+18
+00:01:03,600 --> 00:01:06,719
+where users of sdmx are invited to ask
+
+19
+00:01:06,719 --> 00:01:09,599
+or answer questions find Solutions and
+
+20
+00:01:09,599 --> 00:01:12,478
+connect with experts and peers
+
+21
+00:01:12,478 --> 00:01:15,780
+The Forum is designed as a space to
+
+22
+00:01:15,780 --> 00:01:19,260
+generate ideas receive feedback as well
+
+23
+00:01:19,260 --> 00:01:21,780
+as to access information on case studies
+
+24
+00:01:21,780 --> 00:01:24,599
+and implementation scenarios
+
+25
+00:01:24,599 --> 00:01:26,879
+The Forum is open to all users
+
+26
+00:01:26,879 --> 00:01:29,219
+irrespective of their level of
+
+27
+00:01:29,219 --> 00:01:33,239
+experience and knowledge of sdmx
+
+28
+00:01:33,239 --> 00:01:36,299
+in addition to this we will also present
+
+29
+00:01:36,299 --> 00:01:38,819
+ongoing capacity development initiatives
+
+30
+00:01:38,819 --> 00:01:42,239
+and will engage with you our audience
+
+31
+00:01:42,239 --> 00:01:45,478
+to identify Your Capacity development
+
+32
+00:01:45,478 --> 00:01:49,319
+needs to better serve the scmx universal
+
+33
+00:01:49,319 --> 00:01:52,319
+community in the future
+
+34
+00:01:52,319 --> 00:01:55,259
+finally some first information about the
+
+35
+00:01:55,259 --> 00:01:58,560
+next stmx conference will be given which
+
+36
+00:01:58,560 --> 00:02:00,599
+will take place during the second half
+
+37
+00:02:00,599 --> 00:02:03,840
+of 2023
+
+38
+00:02:03,840 --> 00:02:07,739
+so let me now tell you a bit more about
+
+39
+00:02:07,739 --> 00:02:11,639
+my fellow speakers so Jonathan is the
+
+40
+00:02:11,639 --> 00:02:13,680
+community manager of the statistical
+
+41
+00:02:13,680 --> 00:02:15,719
+information system collaboration
+
+42
+00:02:15,719 --> 00:02:19,800
+Community or siscc
+
+43
+00:02:19,800 --> 00:02:22,919
+at the oecd statistics and data
+
+44
+00:02:22,919 --> 00:02:24,659
+directorate
+
+45
+00:02:24,659 --> 00:02:27,659
+Jonathan has led the implementation of
+
+46
+00:02:27,659 --> 00:02:31,219
+the dot stat Academy and online
+
+47
+00:02:31,219 --> 00:02:34,680
+self-play online self-paced learning hub
+
+48
+00:02:34,680 --> 00:02:38,340
+for stats Suite and data modeling in SDM
+
+49
+00:02:38,340 --> 00:02:40,378
+Max
+
+50
+00:02:40,378 --> 00:02:45,060
+it works as a senior data scientist in
+
+51
+00:02:45,060 --> 00:02:48,479
+the development economics data group of
+
+52
+00:02:48,479 --> 00:02:51,318
+the World Bank and leads several
+
+53
+00:02:51,318 --> 00:02:53,818
+multi-agency partnership initiatives
+
+54
+00:02:53,818 --> 00:02:56,400
+like the world integrated trade
+
+55
+00:02:56,400 --> 00:02:57,598
+Solutions
+
+56
+00:02:57,598 --> 00:03:00,479
+and the statistical data and metadata
+
+57
+00:03:00,479 --> 00:03:04,318
+exchange or sdmx and also the data
+
+58
+00:03:04,318 --> 00:03:06,780
+Innovation fund
+
+59
+00:03:06,780 --> 00:03:09,840
+Abdullah works in the statistical
+
+60
+00:03:09,840 --> 00:03:12,539
+capacity management section of the UN
+
+61
+00:03:12,539 --> 00:03:15,840
+statistics division UNSC
+
+62
+00:03:15,840 --> 00:03:20,459
+he is the statistics divisions focal
+
+63
+00:03:20,459 --> 00:03:23,699
+point on SDA Max a member of the SDA Max
+
+64
+00:03:23,699 --> 00:03:26,519
+Secretariat and coordinator of the
+
+65
+00:03:26,519 --> 00:03:30,719
+working group on sem X4 sdg indicators
+
+66
+00:03:30,719 --> 00:03:33,719
+and myself I also work in the
+
+67
+00:03:33,719 --> 00:03:35,699
+statistical capacity management section
+
+68
+00:03:35,699 --> 00:03:39,360
+of unsd I'm the developer of the UN
+
+69
+00:03:39,360 --> 00:03:41,818
+Global calendar of statistical events
+
+70
+00:03:41,818 --> 00:03:44,519
+and co-lead of the global Network and
+
+71
+00:03:44,519 --> 00:03:46,620
+its webinar series
+
+72
+00:03:46,620 --> 00:03:49,318
+as all speakers today I was part of the
+
+73
+00:03:49,318 --> 00:03:52,500
+team which brought the scmx user Forum
+
+74
+00:03:52,500 --> 00:03:54,980
+to life
+
+75
+00:03:55,139 --> 00:03:59,098
+um so before I hand over to sit uh
+
+76
+00:03:59,098 --> 00:04:01,378
+let me give you just some quick
+
+77
+00:04:01,378 --> 00:04:03,360
+indications how
+
+78
+00:04:03,360 --> 00:04:05,158
+things will work today
+
+79
+00:04:05,158 --> 00:04:07,620
+as usual we will first hear all
+
+80
+00:04:07,620 --> 00:04:10,259
+presentations before we will have a q a
+
+81
+00:04:10,259 --> 00:04:12,060
+session at the end
+
+82
+00:04:12,060 --> 00:04:14,219
+so feel free to write comments and
+
+83
+00:04:14,219 --> 00:04:16,379
+questions into the meeting chat at any
+
+84
+00:04:16,379 --> 00:04:19,738
+time during the Q a session if you
+
+85
+00:04:19,738 --> 00:04:21,540
+prefer you can ask the question yourself
+
+86
+00:04:21,540 --> 00:04:24,300
+we will then allow you to use microphone
+
+87
+00:04:24,300 --> 00:04:26,699
+and the camera
+
+88
+00:04:26,699 --> 00:04:29,160
+to generate a more interactive
+
+89
+00:04:29,160 --> 00:04:30,600
+atmosphere
+
+90
+00:04:30,600 --> 00:04:32,759
+but if you wish we can also ask the
+
+91
+00:04:32,759 --> 00:04:34,639
+question then for you
+
+92
+00:04:34,639 --> 00:04:37,680
+as always This Global Network webinar is
+
+93
+00:04:37,680 --> 00:04:39,600
+being recorded and will be made
+
+94
+00:04:39,600 --> 00:04:41,939
+available on the global network of data
+
+95
+00:04:41,939 --> 00:04:45,899
+officers and statisticians at yammer.com
+
+96
+00:04:45,899 --> 00:04:48,899
+unstats
+
+97
+00:04:48,899 --> 00:04:52,860
+so now I will hand over to sit sit the
+
+98
+00:04:52,860 --> 00:04:56,959
+floor is now yours please go ahead
+
+99
+00:05:10,319 --> 00:05:14,819
+your muted yeah I was yeah good morning
+
+100
+00:05:14,819 --> 00:05:16,259
+good afternoon everyone
+
+101
+00:05:16,259 --> 00:05:17,779
+uh
+
+102
+00:05:17,779 --> 00:05:20,519
+this presentation is a quick
+
+103
+00:05:20,519 --> 00:05:24,060
+introduction to sdmx so those of you who
+
+104
+00:05:24,060 --> 00:05:26,699
+do not know what SDM access or some have
+
+105
+00:05:26,699 --> 00:05:29,160
+some ideas to what SDM access are is
+
+106
+00:05:29,160 --> 00:05:31,860
+that this is just a quick overview of
+
+107
+00:05:31,860 --> 00:05:34,740
+what is DMX is all about and it's kind
+
+108
+00:05:34,740 --> 00:05:36,560
+of like
+
+109
+00:05:36,560 --> 00:05:41,399
+why what and how of sdmx
+
+110
+00:05:41,399 --> 00:05:44,160
+so going on like data challenges I think
+
+111
+00:05:44,160 --> 00:05:46,680
+you're all here in this presentation
+
+112
+00:05:46,680 --> 00:05:48,839
+because we all deal with data you
+
+113
+00:05:48,839 --> 00:05:52,259
+exchange data you disseminate data and
+
+114
+00:05:52,259 --> 00:05:54,779
+we bring in data from multiple sources
+
+115
+00:05:54,779 --> 00:05:57,600
+for our everyday work but some of the
+
+116
+00:05:57,600 --> 00:06:00,779
+common challenges that we Face are uh
+
+117
+00:06:00,779 --> 00:06:02,339
+when you pull data from different
+
+118
+00:06:02,339 --> 00:06:04,439
+organizations you get data in different
+
+119
+00:06:04,439 --> 00:06:06,899
+file formats you have to deal with
+
+120
+00:06:06,899 --> 00:06:10,019
+different API structure and once you get
+
+121
+00:06:10,019 --> 00:06:13,019
+the data you have to understand the data
+
+122
+00:06:13,019 --> 00:06:14,660
+that means you have to read code book
+
+123
+00:06:14,660 --> 00:06:16,978
+understand what the data is like when
+
+124
+00:06:16,978 --> 00:06:18,360
+you look at a number which are the
+
+125
+00:06:18,360 --> 00:06:21,899
+columns that identify the number and you
+
+126
+00:06:21,899 --> 00:06:24,779
+also run into issues like uh like if you
+
+127
+00:06:24,779 --> 00:06:27,300
+take two Excel sheet there will be
+
+128
+00:06:27,300 --> 00:06:29,038
+different column names for the country
+
+129
+00:06:29,038 --> 00:06:32,879
+or the age and
+
+130
+00:06:32,879 --> 00:06:35,399
+was more more importantly also the codes
+
+131
+00:06:35,399 --> 00:06:38,160
+are different so some will have like M
+
+132
+00:06:38,160 --> 00:06:40,139
+as male While others will have one as
+
+133
+00:06:40,139 --> 00:06:43,439
+male and fsp mail two spmail so you have
+
+134
+00:06:43,439 --> 00:06:46,379
+to do a lot of data massaging data
+
+135
+00:06:46,379 --> 00:06:49,819
+jugglery and uh roundabout work
+
+136
+00:06:49,819 --> 00:06:52,740
+workarounds to get data from multiple
+
+137
+00:06:52,740 --> 00:06:55,139
+sources before you can start using this
+
+138
+00:06:55,139 --> 00:06:57,959
+so all this leads to right like you can
+
+139
+00:06:57,959 --> 00:07:00,918
+see the details here so
+
+140
+00:07:00,918 --> 00:07:04,800
+and uh it leads to like a huge mapping
+
+141
+00:07:04,800 --> 00:07:05,660
+mess
+
+142
+00:07:05,660 --> 00:07:09,360
+and uh I think it's a problem in most of
+
+143
+00:07:09,360 --> 00:07:12,240
+the data shops that we have and the
+
+144
+00:07:12,240 --> 00:07:15,180
+solution is to standardize things so
+
+145
+00:07:15,180 --> 00:07:18,060
+when you look at uh that the travel
+
+146
+00:07:18,060 --> 00:07:19,800
+industry when you want to book your
+
+147
+00:07:19,800 --> 00:07:22,560
+flight ticket doesn't matter which
+
+148
+00:07:22,560 --> 00:07:25,740
+travel software you use or you call up
+
+149
+00:07:25,740 --> 00:07:27,720
+the airlines it's always the same
+
+150
+00:07:27,720 --> 00:07:30,360
+airport code that you booked to from and
+
+151
+00:07:30,360 --> 00:07:33,598
+to similarly the airline the the flight
+
+152
+00:07:33,598 --> 00:07:35,339
+that you fly in has got the same flight
+
+153
+00:07:35,339 --> 00:07:37,800
+number and it doesn't matter from which
+
+154
+00:07:37,800 --> 00:07:39,360
+corner of the world you're buying or
+
+155
+00:07:39,360 --> 00:07:41,699
+from brick system you're buying you
+
+156
+00:07:41,699 --> 00:07:43,800
+always end up in the airport that you
+
+157
+00:07:43,800 --> 00:07:45,959
+want to similarly when you trade on the
+
+158
+00:07:45,959 --> 00:07:49,379
+stock exchange like you doesn't matter
+
+159
+00:07:49,379 --> 00:07:52,379
+which brokerage you use you or which
+
+160
+00:07:52,379 --> 00:07:55,199
+software nowadays which app you use you
+
+161
+00:07:55,199 --> 00:07:57,478
+you can always buy yours the stock that
+
+162
+00:07:57,478 --> 00:08:00,240
+you want one of the most successful
+
+163
+00:08:00,240 --> 00:08:03,620
+standards is HTML where we can see where
+
+164
+00:08:03,620 --> 00:08:06,360
+you create a website and it doesn't
+
+165
+00:08:06,360 --> 00:08:08,519
+matter which operating system you are in
+
+166
+00:08:08,519 --> 00:08:10,918
+which web browser you are in you are
+
+167
+00:08:10,918 --> 00:08:13,918
+able to see the web page so sdmx is a
+
+168
+00:08:13,918 --> 00:08:15,839
+similar initiative sponsored by seven
+
+169
+00:08:15,839 --> 00:08:18,000
+International agencies to solve the
+
+170
+00:08:18,000 --> 00:08:20,579
+problem to of exchange of statistical
+
+171
+00:08:20,579 --> 00:08:23,220
+data and metadata
+
+172
+00:08:23,220 --> 00:08:26,639
+so now coming to the what what is sdmx
+
+173
+00:08:26,639 --> 00:08:29,339
+sdmx is an open standard for data and
+
+174
+00:08:29,339 --> 00:08:31,620
+metadata exchange and when you say an
+
+175
+00:08:31,620 --> 00:08:33,538
+open standard it is both for the
+
+176
+00:08:33,538 --> 00:08:36,120
+technical standards so which is kind of
+
+177
+00:08:36,120 --> 00:08:39,599
+your apis and the content standard so it
+
+178
+00:08:39,599 --> 00:08:42,179
+tries to have standardize both the
+
+179
+00:08:42,179 --> 00:08:44,219
+content that we get is exchanged and
+
+180
+00:08:44,219 --> 00:08:46,799
+also the way which machine to machine
+
+181
+00:08:46,799 --> 00:08:49,919
+communicate more importantly sdmx has
+
+182
+00:08:49,919 --> 00:08:53,700
+got a data and metadata modeling so when
+
+183
+00:08:53,700 --> 00:08:56,039
+you exchange your data not only you make
+
+184
+00:08:56,039 --> 00:08:58,379
+your data available via an API it also
+
+185
+00:08:58,379 --> 00:09:02,820
+helps users to understand uh the data
+
+186
+00:09:02,820 --> 00:09:04,559
+that they are consuming without having
+
+187
+00:09:04,559 --> 00:09:06,980
+to read too much of a code book like
+
+188
+00:09:06,980 --> 00:09:09,480
+assess if you are a programmer you will
+
+189
+00:09:09,480 --> 00:09:11,159
+be able to figure out okay which are the
+
+190
+00:09:11,159 --> 00:09:13,559
+columns which are not null which are the
+
+191
+00:09:13,559 --> 00:09:16,259
+columns which may be null and which are
+
+192
+00:09:16,259 --> 00:09:18,299
+the primary keys to identify the data
+
+193
+00:09:18,299 --> 00:09:20,639
+those kind of information you get so all
+
+194
+00:09:20,639 --> 00:09:22,379
+in all it enables machine to machine
+
+195
+00:09:22,379 --> 00:09:25,919
+coming community education and since its
+
+196
+00:09:25,919 --> 00:09:28,440
+Inception way back in the early 2000s it
+
+197
+00:09:28,440 --> 00:09:31,259
+has always been based on supporting open
+
+198
+00:09:31,259 --> 00:09:33,659
+source standard ID tools so it is like
+
+199
+00:09:33,659 --> 00:09:36,539
+you create a tool once and everybody can
+
+200
+00:09:36,539 --> 00:09:40,379
+they use the same tool
+
+201
+00:09:40,379 --> 00:09:43,379
+so ldmx has got three major components
+
+202
+00:09:43,379 --> 00:09:44,940
+this is going a little bit into the
+
+203
+00:09:44,940 --> 00:09:48,778
+weeds but it's still a 50 000 view uh 50
+
+204
+00:09:48,778 --> 00:09:50,940
+000 feet view so it's got the technical
+
+205
+00:09:50,940 --> 00:09:53,220
+specification which defines how the API
+
+206
+00:09:53,220 --> 00:09:55,799
+should be and other details around that
+
+207
+00:09:55,799 --> 00:09:58,740
+the data exchange mechanism then you
+
+208
+00:09:58,740 --> 00:10:00,419
+have the content oriented guideline
+
+209
+00:10:00,419 --> 00:10:03,659
+which tries to harmonize your content so
+
+210
+00:10:03,659 --> 00:10:06,259
+something like everybody calls country
+
+211
+00:10:06,259 --> 00:10:10,259
+with the same set of column names or age
+
+212
+00:10:10,259 --> 00:10:13,980
+or sex or everything else and here and
+
+213
+00:10:13,980 --> 00:10:15,958
+then there is a glossary created so that
+
+214
+00:10:15,958 --> 00:10:18,299
+we all speak the same line the same
+
+215
+00:10:18,299 --> 00:10:20,639
+language a good example is like when you
+
+216
+00:10:20,639 --> 00:10:22,559
+say football it's got a different
+
+217
+00:10:22,559 --> 00:10:24,778
+meaning in North America as opposed to
+
+218
+00:10:24,778 --> 00:10:27,240
+in the European continent or same thing
+
+219
+00:10:27,240 --> 00:10:29,039
+with a trolley with trolley in the US
+
+220
+00:10:29,039 --> 00:10:31,019
+and the UK means totally two different
+
+221
+00:10:31,019 --> 00:10:33,179
+things so the idea of the glossary is
+
+222
+00:10:33,179 --> 00:10:35,580
+like when we say a particular word if we
+
+223
+00:10:35,580 --> 00:10:37,320
+are all implementing as DMX we are all
+
+224
+00:10:37,320 --> 00:10:39,120
+speaking the same language and there is
+
+225
+00:10:39,120 --> 00:10:42,539
+no nothing last translation and the last
+
+226
+00:10:42,539 --> 00:10:44,578
+empire and the most important which I
+
+227
+00:10:44,578 --> 00:10:46,578
+think all of you should be
+
+228
+00:10:46,578 --> 00:10:49,320
+focused on is the tools the open source
+
+229
+00:10:49,320 --> 00:10:51,480
+tools there are like lots and lots of
+
+230
+00:10:51,480 --> 00:10:54,299
+tools available in sdmx and you can get
+
+231
+00:10:54,299 --> 00:10:57,659
+a lot of information on the HDMX website
+
+232
+00:10:57,659 --> 00:11:00,440
+so here is an example of how sdmx makes
+
+233
+00:11:00,440 --> 00:11:03,419
+life simple especially those of you who
+
+234
+00:11:03,419 --> 00:11:05,159
+are developers who are trying to pull
+
+235
+00:11:05,159 --> 00:11:08,639
+data from multiple apis and you end up
+
+236
+00:11:08,639 --> 00:11:12,120
+with writing like five or ten different
+
+237
+00:11:12,120 --> 00:11:13,919
+set of codes depending on the number of
+
+238
+00:11:13,919 --> 00:11:15,839
+organizations from which you're trying
+
+239
+00:11:15,839 --> 00:11:18,778
+to pull whereas with sdmx if you see the
+
+240
+00:11:18,778 --> 00:11:21,958
+call structures are all standardized so
+
+241
+00:11:21,958 --> 00:11:24,720
+all you need to change is the domain
+
+242
+00:11:24,720 --> 00:11:27,059
+from which you're pulling the data but
+
+243
+00:11:27,059 --> 00:11:30,419
+the rest of the process remains uh a
+
+244
+00:11:30,419 --> 00:11:32,700
+standard so once once you write a code
+
+245
+00:11:32,700 --> 00:11:34,740
+if you have to add a new organization
+
+246
+00:11:34,740 --> 00:11:36,720
+that says DMX compliant it's very easy
+
+247
+00:11:36,720 --> 00:11:38,399
+you just add in the configuration what
+
+248
+00:11:38,399 --> 00:11:39,958
+will your domain is and what the new
+
+249
+00:11:39,958 --> 00:11:42,120
+initial call structure is and you're
+
+250
+00:11:42,120 --> 00:11:44,159
+good to go
+
+251
+00:11:44,159 --> 00:11:45,419
+uh
+
+252
+00:11:45,419 --> 00:11:48,659
+sorry am I going back
+
+253
+00:11:48,659 --> 00:11:51,240
+uh content oriented guidelines so as I'm
+
+254
+00:11:51,240 --> 00:11:54,019
+as I said this is trying to like
+
+255
+00:11:54,019 --> 00:11:57,480
+harmonize the kind of data that we
+
+256
+00:11:57,480 --> 00:11:59,879
+exchange so everybody calls frequency is
+
+257
+00:11:59,879 --> 00:12:02,339
+a particular thing age in a particular
+
+258
+00:12:02,339 --> 00:12:05,759
+way and when you look at statistical
+
+259
+00:12:05,759 --> 00:12:07,980
+data unlike the travel industry or the
+
+260
+00:12:07,980 --> 00:12:10,078
+financial industry which had given it is
+
+261
+00:12:10,078 --> 00:12:12,360
+spread across multiple domains so you've
+
+262
+00:12:12,360 --> 00:12:14,100
+got like national accounts you've got
+
+263
+00:12:14,100 --> 00:12:16,620
+social you've got many other
+
+264
+00:12:16,620 --> 00:12:21,120
+things so so we are kind of uh using the
+
+265
+00:12:21,120 --> 00:12:24,958
+unece classification for uh defining the
+
+266
+00:12:24,958 --> 00:12:28,320
+various domains uh and then the cross
+
+267
+00:12:28,320 --> 00:12:30,419
+domain code list so this is more like
+
+268
+00:12:30,419 --> 00:12:32,940
+when you exchange codes like when you're
+
+269
+00:12:32,940 --> 00:12:34,980
+exchanging something like frequency so
+
+270
+00:12:34,980 --> 00:12:38,278
+everybody says agrees on a is annual Ms
+
+271
+00:12:38,278 --> 00:12:41,578
+monthly D is daily Etc so in this way we
+
+272
+00:12:41,578 --> 00:12:45,179
+eliminate a lot of mapping of data when
+
+273
+00:12:45,179 --> 00:12:47,159
+we exchange data and it becomes much
+
+274
+00:12:47,159 --> 00:12:50,278
+more seamless exchange of data so here's
+
+275
+00:12:50,278 --> 00:12:52,078
+a quick example of a cross domain
+
+276
+00:12:52,078 --> 00:12:54,419
+concept something like your which
+
+277
+00:12:54,419 --> 00:12:56,578
+repeats across statistical domains like
+
+278
+00:12:56,578 --> 00:12:58,620
+your frequency of data like whether it
+
+279
+00:12:58,620 --> 00:13:00,120
+is monthly data whether it is annual
+
+280
+00:13:00,120 --> 00:13:02,759
+data reference area is what we use for
+
+281
+00:13:02,759 --> 00:13:05,339
+country or region or sub-national and
+
+282
+00:13:05,339 --> 00:13:07,799
+whether the data is comparable or not so
+
+283
+00:13:07,799 --> 00:13:09,720
+if you see on the right you can see some
+
+284
+00:13:09,720 --> 00:13:12,299
+of the code harmonization for the
+
+285
+00:13:12,299 --> 00:13:14,778
+frequency code list
+
+286
+00:13:14,778 --> 00:13:17,399
+want to go into the details of this but
+
+287
+00:13:17,399 --> 00:13:20,639
+this is something which the sdmx group
+
+288
+00:13:20,639 --> 00:13:22,679
+takes care of so when you're drafting
+
+289
+00:13:22,679 --> 00:13:24,059
+you just take these code lists and
+
+290
+00:13:24,059 --> 00:13:25,440
+implement it
+
+291
+00:13:25,440 --> 00:13:27,299
+here is an example of the statistical
+
+292
+00:13:27,299 --> 00:13:28,980
+subject matter domain so you've got
+
+293
+00:13:28,980 --> 00:13:30,720
+demographic and social statistics
+
+294
+00:13:30,720 --> 00:13:32,519
+economic statistics
+
+295
+00:13:32,519 --> 00:13:34,860
+environment and multi-domain statistics
+
+296
+00:13:34,860 --> 00:13:37,320
+within them you got further subdivisions
+
+297
+00:13:37,320 --> 00:13:39,958
+but to a large extent this helps us
+
+298
+00:13:39,958 --> 00:13:43,860
+guide create domain specific code lists
+
+299
+00:13:43,860 --> 00:13:46,799
+and Concepts and also cross domain code
+
+300
+00:13:46,799 --> 00:13:48,720
+list and Concepts
+
+301
+00:13:48,720 --> 00:13:51,778
+now if you have to implement sdmx you
+
+302
+00:13:51,778 --> 00:13:53,220
+are a statistician and you want to
+
+303
+00:13:53,220 --> 00:13:55,259
+implement as DMX like many of these
+
+304
+00:13:55,259 --> 00:13:58,740
+terms like code list and Concepts may be
+
+305
+00:13:58,740 --> 00:14:00,500
+a bit uh
+
+306
+00:14:00,500 --> 00:14:03,480
+overwhelming but essentially all that
+
+307
+00:14:03,480 --> 00:14:06,299
+you need to do as a statistician in your
+
+308
+00:14:06,299 --> 00:14:09,240
+organization is to understand your own
+
+309
+00:14:09,240 --> 00:14:13,379
+data and provide to the
+
+310
+00:14:13,379 --> 00:14:16,320
+team implementing is DMX how to
+
+311
+00:14:16,320 --> 00:14:18,539
+interpret your data so here is an
+
+312
+00:14:18,539 --> 00:14:21,600
+example of an external data and as a
+
+313
+00:14:21,600 --> 00:14:23,458
+statistician all that you need to do is
+
+314
+00:14:23,458 --> 00:14:28,200
+say that okay country stock flow time
+
+315
+00:14:28,200 --> 00:14:32,100
+and the topic are necessary to identify
+
+316
+00:14:32,100 --> 00:14:35,519
+the observation out there like and if
+
+317
+00:14:35,519 --> 00:14:37,320
+you look at other things like unit
+
+318
+00:14:37,320 --> 00:14:40,679
+multiplier and unit uh these are needed
+
+319
+00:14:40,679 --> 00:14:42,778
+to further qualify your data so
+
+320
+00:14:42,778 --> 00:14:44,940
+essentially that's what you do and then
+
+321
+00:14:44,940 --> 00:14:48,839
+the team implementing is DMX and we have
+
+322
+00:14:48,839 --> 00:14:50,399
+a lot of capacity building activities
+
+323
+00:14:50,399 --> 00:14:52,379
+which my colleagues will be talking
+
+324
+00:14:52,379 --> 00:14:55,078
+later on will help you to adapt it but
+
+325
+00:14:55,078 --> 00:14:56,639
+once you adopt it then your data
+
+326
+00:14:56,639 --> 00:14:58,980
+exchange with other organizations and
+
+327
+00:14:58,980 --> 00:15:01,379
+even within your own Community will
+
+328
+00:15:01,379 --> 00:15:04,320
+become much more seamless and faster
+
+329
+00:15:04,320 --> 00:15:06,958
+so some of the key benefits of SDM
+
+330
+00:15:06,958 --> 00:15:08,659
+access it's an open internationally
+
+331
+00:15:08,659 --> 00:15:12,299
+agreed standard for exchange so as I
+
+332
+00:15:12,299 --> 00:15:15,419
+pointed out in the example of the data
+
+333
+00:15:15,419 --> 00:15:18,000
+API calls that you make it becomes very
+
+334
+00:15:18,000 --> 00:15:20,578
+simple and because the content is
+
+335
+00:15:20,578 --> 00:15:22,139
+standardized you don't have to do too
+
+336
+00:15:22,139 --> 00:15:24,899
+much of data massaging before you can
+
+337
+00:15:24,899 --> 00:15:28,198
+start using it so it's syntactic and
+
+338
+00:15:28,198 --> 00:15:31,320
+semantic interoperable so more like it
+
+339
+00:15:31,320 --> 00:15:33,299
+is more like when you pull a data not
+
+340
+00:15:33,299 --> 00:15:35,759
+only you get the data but you also are
+
+341
+00:15:35,759 --> 00:15:37,980
+able to get enough information as to how
+
+342
+00:15:37,980 --> 00:15:40,919
+to interpret the data as DMX is built on
+
+343
+00:15:40,919 --> 00:15:42,659
+the principle of reusable open source
+
+344
+00:15:42,659 --> 00:15:44,698
+tools so you don't have to invest a lot
+
+345
+00:15:44,698 --> 00:15:47,820
+of time and money into building tools uh
+
+346
+00:15:47,820 --> 00:15:50,039
+it does harmonization of statistical
+
+347
+00:15:50,039 --> 00:15:51,659
+Concepts and codes which I've been
+
+348
+00:15:51,659 --> 00:15:53,519
+talking about more importantly
+
+349
+00:15:53,519 --> 00:15:56,339
+versioning is very strong in sdmx so if
+
+350
+00:15:56,339 --> 00:15:58,198
+you want to maintain data versions you
+
+351
+00:15:58,198 --> 00:15:59,940
+have to maintain your technical standard
+
+352
+00:15:59,940 --> 00:16:02,458
+versions as the MX provides you a lot
+
+353
+00:16:02,458 --> 00:16:04,679
+and it helps you to have like if you
+
+354
+00:16:04,679 --> 00:16:06,480
+want to go back in time to see how your
+
+355
+00:16:06,480 --> 00:16:09,778
+data was it helps you a lot and all in
+
+356
+00:16:09,778 --> 00:16:11,278
+all it helps you to have timely
+
+357
+00:16:11,278 --> 00:16:13,259
+collection and dissemination of data and
+
+358
+00:16:13,259 --> 00:16:15,480
+metadata efficiently
+
+359
+00:16:15,480 --> 00:16:18,259
+thank you
+
+360
+00:16:19,740 --> 00:16:22,399
+thank you Sid for for this overview
+
+361
+00:16:22,399 --> 00:16:26,100
+before we continue with the next section
+
+362
+00:16:26,100 --> 00:16:28,320
+which is basically an introduction to
+
+363
+00:16:28,320 --> 00:16:33,179
+the semx user Forum I would like to ask
+
+364
+00:16:33,179 --> 00:16:38,399
+all participants to answer this little
+
+365
+00:16:38,399 --> 00:16:43,740
+question so what do you use sdmx for and
+
+366
+00:16:43,740 --> 00:16:45,899
+then you can choose between data
+
+367
+00:16:45,899 --> 00:16:48,600
+modeling processing integration data
+
+368
+00:16:48,600 --> 00:16:52,078
+dissemination data reporting or you can
+
+369
+00:16:52,078 --> 00:16:55,379
+say we do not use semx at the moment and
+
+370
+00:16:55,379 --> 00:16:58,980
+that you are exploring to use sdmx in
+
+371
+00:16:58,980 --> 00:17:00,120
+the future
+
+372
+00:17:00,120 --> 00:17:02,039
+so maybe
+
+373
+00:17:02,039 --> 00:17:04,919
+we can
+
+374
+00:17:04,919 --> 00:17:08,578
+we can have a please
+
+375
+00:17:08,578 --> 00:17:11,039
+answer those questions and we have the
+
+376
+00:17:11,039 --> 00:17:13,878
+results coming in
+
+377
+00:17:17,759 --> 00:17:21,119
+so just just yes you didn't see it it
+
+378
+00:17:21,119 --> 00:17:23,640
+didn't flash on screen uh click on the
+
+379
+00:17:23,640 --> 00:17:25,679
+polls yes
+
+380
+00:17:25,679 --> 00:17:28,439
+sorry it didn't come up on the screen I
+
+381
+00:17:28,439 --> 00:17:31,500
+wasn't aware it came up on my screen but
+
+382
+00:17:31,500 --> 00:17:35,640
+okay so in I think it should also be in
+
+383
+00:17:35,640 --> 00:17:37,819
+in the chat
+
+384
+00:17:37,819 --> 00:17:42,779
+so we have now and do you see the
+
+385
+00:17:42,779 --> 00:17:45,959
+results Jonathan
+
+386
+00:17:46,798 --> 00:17:52,200
+I can otherwise I can I can I can see it
+
+387
+00:17:52,200 --> 00:17:53,579
+Alex I think you have to submit your
+
+388
+00:17:53,579 --> 00:17:56,940
+response so 21 have said like so we have
+
+389
+00:17:56,940 --> 00:17:59,940
+got like 90 response so far and 21
+
+390
+00:17:59,940 --> 00:18:01,980
+person say they use for data modeling
+
+391
+00:18:01,980 --> 00:18:05,038
+processing integration uh 32 percent say
+
+392
+00:18:05,038 --> 00:18:07,798
+they're using for data dissemination 21
+
+393
+00:18:07,798 --> 00:18:10,798
+say they are using it for data reporting
+
+394
+00:18:10,798 --> 00:18:13,679
+eight percent have said they are not
+
+395
+00:18:13,679 --> 00:18:16,980
+using sdmx at the moment and 16 person
+
+396
+00:18:16,980 --> 00:18:20,579
+say we are exploring use of sdmx and by
+
+397
+00:18:20,579 --> 00:18:22,319
+the time I finished it there are 98
+
+398
+00:18:22,319 --> 00:18:25,500
+percent but 900 responses but the
+
+399
+00:18:25,500 --> 00:18:28,980
+percentages have not changed much
+
+400
+00:18:28,980 --> 00:18:31,440
+uh thanks so much Sid
+
+401
+00:18:31,440 --> 00:18:35,099
+um so uh this thanks for for to everyone
+
+402
+00:18:35,099 --> 00:18:37,440
+for answering this little poll we will
+
+403
+00:18:37,440 --> 00:18:40,558
+have two more questions uh later on so I
+
+404
+00:18:40,558 --> 00:18:43,079
+will start now uh with my section
+
+405
+00:18:43,079 --> 00:18:46,679
+presenting the stmx user form I will
+
+406
+00:18:46,679 --> 00:18:48,558
+share my screen
+
+407
+00:18:48,558 --> 00:18:50,279
+and
+
+408
+00:18:50,279 --> 00:18:50,819
+um
+
+409
+00:18:50,819 --> 00:18:54,779
+I hope you can see it now
+
+410
+00:18:54,779 --> 00:18:57,058
+so
+
+411
+00:18:57,058 --> 00:18:59,519
+I will give a short introduction to the
+
+412
+00:18:59,519 --> 00:19:02,519
+scmx user Forum in the next 10 minutes
+
+413
+00:19:02,519 --> 00:19:06,298
+so what what is the sdmx user for
+
+414
+00:19:06,298 --> 00:19:09,960
+so the semx user forum is an open and
+
+415
+00:19:09,960 --> 00:19:12,480
+inclusive online community to connect
+
+416
+00:19:12,480 --> 00:19:16,500
+and share knowledge on SDM X it's a
+
+417
+00:19:16,500 --> 00:19:19,740
+forum where you can ask questions
+
+418
+00:19:19,740 --> 00:19:22,440
+you can find answers to those questions
+
+419
+00:19:22,440 --> 00:19:25,440
+or you can provide it answers yourself
+
+420
+00:19:25,440 --> 00:19:28,019
+to questions which you think
+
+421
+00:19:28,019 --> 00:19:33,900
+you you can contribute something to them
+
+422
+00:19:33,900 --> 00:19:36,240
+you can also connect with experts in
+
+423
+00:19:36,240 --> 00:19:40,038
+peers from around the globe who work on
+
+424
+00:19:40,038 --> 00:19:43,440
+sdmx or with sdmx
+
+425
+00:19:43,440 --> 00:19:47,220
+the sdmx user forum is is hosted on the
+
+426
+00:19:47,220 --> 00:19:49,380
+global network of data offices and
+
+427
+00:19:49,380 --> 00:19:50,940
+statisticians
+
+428
+00:19:50,940 --> 00:19:52,919
+and because we are working with numbers
+
+429
+00:19:52,919 --> 00:19:55,640
+let me give you a few numbers
+
+430
+00:19:55,640 --> 00:20:00,538
+about the SMX user Forum so The Forum
+
+431
+00:20:00,538 --> 00:20:04,980
+has currently more than 250 members
+
+432
+00:20:04,980 --> 00:20:09,000
+the ratio of monthly active uses to the
+
+433
+00:20:09,000 --> 00:20:12,660
+total number of members of The Forum is
+
+434
+00:20:12,660 --> 00:20:15,599
+about 70 which is a very good value and
+
+435
+00:20:15,599 --> 00:20:17,160
+shows how active
+
+436
+00:20:17,160 --> 00:20:21,419
+the The Forum actually is
+
+437
+00:20:21,419 --> 00:20:24,298
+since the launch there were more than
+
+438
+00:20:24,298 --> 00:20:27,359
+120 messages posted and those messages
+
+439
+00:20:27,359 --> 00:20:32,719
+were read on average more than 70 times
+
+440
+00:20:33,298 --> 00:20:36,298
+so and what kind of questions would you
+
+441
+00:20:36,298 --> 00:20:39,900
+find on the sa Max use of arms so so far
+
+442
+00:20:39,900 --> 00:20:42,919
+they had in
+
+443
+00:20:42,919 --> 00:20:47,160
+1717 questions asked all were answered
+
+444
+00:20:47,160 --> 00:20:50,220
+in less than 48 hours usually it's
+
+445
+00:20:50,220 --> 00:20:53,339
+within a day but
+
+446
+00:20:53,339 --> 00:20:57,538
+so for sure within 48 hours
+
+447
+00:20:57,538 --> 00:21:00,000
+you will see here on the screen the
+
+448
+00:21:00,000 --> 00:21:02,640
+topics uh
+
+449
+00:21:02,640 --> 00:21:03,619
+uh
+
+450
+00:21:03,619 --> 00:21:06,660
+with which those questions were
+
+451
+00:21:06,660 --> 00:21:08,359
+classified
+
+452
+00:21:08,359 --> 00:21:12,720
+and some of the popular topics were sdmx
+
+453
+00:21:12,720 --> 00:21:14,058
+modeling
+
+454
+00:21:14,058 --> 00:21:18,259
+vtl and also
+
+455
+00:21:18,259 --> 00:21:22,380
+things like SC questions about semx in
+
+456
+00:21:22,380 --> 00:21:24,558
+general
+
+457
+00:21:25,079 --> 00:21:28,440
+I would like now to show you
+
+458
+00:21:28,440 --> 00:21:29,599
+the
+
+459
+00:21:29,599 --> 00:21:33,779
+stmx user Forum live so and I want to
+
+460
+00:21:33,779 --> 00:21:35,819
+show you also three examples of
+
+461
+00:21:35,819 --> 00:21:39,119
+questions so the first one
+
+462
+00:21:39,119 --> 00:21:42,259
+is on
+
+463
+00:21:42,440 --> 00:21:46,440
+sdmx sorry
+
+464
+00:21:47,519 --> 00:21:52,259
+let me switch to my other browser
+
+465
+00:21:52,259 --> 00:21:54,859
+okay
+
+466
+00:21:55,380 --> 00:21:59,279
+so the first one
+
+467
+00:21:59,279 --> 00:22:02,359
+is on
+
+468
+00:22:03,500 --> 00:22:06,720
+stmx modeling and so there was a
+
+469
+00:22:06,720 --> 00:22:09,179
+question about the attributes in a
+
+470
+00:22:09,179 --> 00:22:12,839
+typical DSD of sdmx so this is a
+
+471
+00:22:12,839 --> 00:22:16,679
+question posted by Dimitris uh posted
+
+472
+00:22:16,679 --> 00:22:18,419
+yesterday actually
+
+473
+00:22:18,419 --> 00:22:21,538
+and you can see at the bottom so several
+
+474
+00:22:21,538 --> 00:22:24,000
+people have already answered so Stratos
+
+475
+00:22:24,000 --> 00:22:26,640
+have provided an answer and Abdullah has
+
+476
+00:22:26,640 --> 00:22:29,099
+added on to that
+
+477
+00:22:29,099 --> 00:22:33,359
+you can also see that the question the
+
+478
+00:22:33,359 --> 00:22:36,779
+answer by Stratos was marked by the by
+
+479
+00:22:36,779 --> 00:22:39,779
+Dimitris as the best answer so this
+
+480
+00:22:39,779 --> 00:22:42,960
+functionality of showing the or taking
+
+481
+00:22:42,960 --> 00:22:45,538
+the best answer is something that the
+
+482
+00:22:45,538 --> 00:22:47,579
+person who is asking the question can do
+
+483
+00:22:47,579 --> 00:22:49,380
+or a moderator
+
+484
+00:22:49,380 --> 00:22:52,919
+so this is just one example
+
+485
+00:22:52,919 --> 00:22:56,279
+then we have for instance a question
+
+486
+00:22:56,279 --> 00:22:59,460
+about vtl
+
+487
+00:22:59,460 --> 00:23:02,339
+and
+
+488
+00:23:02,339 --> 00:23:04,679
+yeah here's a this was a question by
+
+489
+00:23:04,679 --> 00:23:08,400
+Nicholas posted earlier this month
+
+490
+00:23:08,400 --> 00:23:13,079
+where he has provided also some
+
+491
+00:23:13,079 --> 00:23:16,798
+data as an example
+
+492
+00:23:16,798 --> 00:23:20,880
+and you can also see that several people
+
+493
+00:23:20,880 --> 00:23:23,880
+have answered and then Nicholas has
+
+494
+00:23:23,880 --> 00:23:25,980
+reacted to it
+
+495
+00:23:25,980 --> 00:23:28,919
+so this is more or less the way it looks
+
+496
+00:23:28,919 --> 00:23:31,679
+yeah when you ask a question and what
+
+497
+00:23:31,679 --> 00:23:33,419
+will happen
+
+498
+00:23:33,419 --> 00:23:36,538
+so let me explain also how to join the
+
+499
+00:23:36,538 --> 00:23:39,538
+global Network and the scmx user Forum
+
+500
+00:23:39,538 --> 00:23:42,960
+very quickly so for that I will open an
+
+501
+00:23:42,960 --> 00:23:45,179
+incognito window just because I'm
+
+502
+00:23:45,179 --> 00:23:47,298
+already locked into
+
+503
+00:23:47,298 --> 00:23:50,220
+the um
+
+504
+00:23:50,220 --> 00:23:52,500
+Global Network so you would go to
+
+505
+00:23:52,500 --> 00:23:54,140
+yammer.com
+
+506
+00:23:54,140 --> 00:23:57,058
+you instead
+
+507
+00:23:57,058 --> 00:24:00,359
+all right and when you do that you would
+
+508
+00:24:00,359 --> 00:24:02,460
+see a screen like this
+
+509
+00:24:02,460 --> 00:24:05,640
+and you would provide your
+
+510
+00:24:05,640 --> 00:24:08,240
+email address
+
+511
+00:24:08,240 --> 00:24:12,179
+and preferably you would use your
+
+512
+00:24:12,179 --> 00:24:15,119
+work email address and then once you hit
+
+513
+00:24:15,119 --> 00:24:17,839
+sign up you will receive an email
+
+514
+00:24:17,839 --> 00:24:21,179
+and then there are like two steps more
+
+515
+00:24:21,179 --> 00:24:24,119
+which you need to do to basically finish
+
+516
+00:24:24,119 --> 00:24:27,619
+the sign up process
+
+517
+00:24:27,619 --> 00:24:31,140
+okay so this is how to join the global
+
+518
+00:24:31,140 --> 00:24:35,099
+Network and then let me maybe explain a
+
+519
+00:24:35,099 --> 00:24:37,558
+little bit more how to get there so
+
+520
+00:24:37,558 --> 00:24:39,000
+let's say you have joined the global
+
+521
+00:24:39,000 --> 00:24:41,579
+network but you don't know where to find
+
+522
+00:24:41,579 --> 00:24:43,798
+the sdmax user forum
+
+523
+00:24:43,798 --> 00:24:46,919
+in that case you can just type sdmx here
+
+524
+00:24:46,919 --> 00:24:51,058
+on the top left in the uh in the search
+
+525
+00:24:51,058 --> 00:24:54,058
+and the first hit should be the sdmx
+
+526
+00:24:54,058 --> 00:24:55,558
+user forum
+
+527
+00:24:55,558 --> 00:24:57,839
+there are two more groups related to
+
+528
+00:24:57,839 --> 00:25:00,599
+sdmx but which are private one is a
+
+529
+00:25:00,599 --> 00:25:03,000
+coordination group for the sdmax user
+
+530
+00:25:03,000 --> 00:25:05,940
+firm and the other one is a group bought
+
+531
+00:25:05,940 --> 00:25:08,640
+the preparation of the sdmx conference
+
+532
+00:25:08,640 --> 00:25:11,940
+so those are not public but the SMX user
+
+533
+00:25:11,940 --> 00:25:14,159
+form is open to everyone so what you
+
+534
+00:25:14,159 --> 00:25:16,259
+will see in the middle here is basically
+
+535
+00:25:16,259 --> 00:25:18,599
+the feed with the questions and answers
+
+536
+00:25:18,599 --> 00:25:19,859
+right
+
+537
+00:25:19,859 --> 00:25:22,558
+on the right hand side you will see some
+
+538
+00:25:22,558 --> 00:25:25,740
+more information about The Forum and
+
+539
+00:25:25,740 --> 00:25:29,778
+popular topics and also some
+
+540
+00:25:29,778 --> 00:25:33,359
+documents with uh additional information
+
+541
+00:25:33,359 --> 00:25:36,778
+about like the standard set of topics
+
+542
+00:25:36,778 --> 00:25:39,298
+and the usage policy
+
+543
+00:25:39,298 --> 00:25:42,179
+okay so and if you want to ask a
+
+544
+00:25:42,179 --> 00:25:45,079
+question then in the samx user Forum
+
+545
+00:25:45,079 --> 00:25:48,179
+that would happen here in the middle
+
+546
+00:25:48,179 --> 00:25:52,380
+at the top so there's several types of
+
+547
+00:25:52,380 --> 00:25:55,038
+posts you would choose a question pose
+
+548
+00:25:55,038 --> 00:26:00,058
+and say so this is my question right and
+
+549
+00:26:00,058 --> 00:26:03,200
+and you write a little bit there
+
+550
+00:26:03,200 --> 00:26:06,119
+for uh and explaining what your question
+
+551
+00:26:06,119 --> 00:26:11,819
+is you can also use bold face and italic
+
+552
+00:26:11,819 --> 00:26:14,819
+face if you want to you can uh
+
+553
+00:26:14,819 --> 00:26:18,778
+link to a web page if you want to
+
+554
+00:26:18,778 --> 00:26:21,778
+which I will not do now you can also
+
+555
+00:26:21,778 --> 00:26:24,720
+upload a file from your computer if you
+
+556
+00:26:24,720 --> 00:26:26,940
+want to by clicking on this and then you
+
+557
+00:26:26,940 --> 00:26:30,778
+select the file and you open it it will
+
+558
+00:26:30,778 --> 00:26:33,119
+be added to your question
+
+559
+00:26:33,119 --> 00:26:36,119
+please don't share any confidential
+
+560
+00:26:36,119 --> 00:26:38,298
+information because
+
+561
+00:26:38,298 --> 00:26:42,319
+you don't want to expose any individual
+
+562
+00:26:42,319 --> 00:26:46,019
+data of anyone
+
+563
+00:26:46,019 --> 00:26:49,559
+so once you have asked the question
+
+564
+00:26:49,559 --> 00:26:49,980
+[Music]
+
+565
+00:26:49,980 --> 00:26:51,298
+um
+
+566
+00:26:51,298 --> 00:26:53,640
+people can reply to a question like this
+
+567
+00:26:53,640 --> 00:26:56,579
+question by Dimitris you can click on
+
+568
+00:26:56,579 --> 00:27:01,859
+reply and I could then add
+
+569
+00:27:01,859 --> 00:27:06,839
+answer the question by Dimitris uh
+
+570
+00:27:06,839 --> 00:27:09,359
+providing an answer and posting it and
+
+571
+00:27:09,359 --> 00:27:12,179
+it will be visible to everyone
+
+572
+00:27:12,179 --> 00:27:14,880
+and then if I don't want to rep
+
+573
+00:27:14,880 --> 00:27:17,819
+ly to Dimitri's original question but
+
+574
+00:27:17,819 --> 00:27:22,380
+maybe to let us answer I can click reply
+
+575
+00:27:22,380 --> 00:27:23,519
+there
+
+576
+00:27:23,519 --> 00:27:26,220
+and if I scroll down you will see okay
+
+577
+00:27:26,220 --> 00:27:28,558
+now it says Alexander logic is replying
+
+578
+00:27:28,558 --> 00:27:31,980
+to Stratos right and so it becomes clear
+
+579
+00:27:31,980 --> 00:27:35,880
+to whom you are replying to
+
+580
+00:27:35,880 --> 00:27:38,460
+so this is a little bit an overview of
+
+581
+00:27:38,460 --> 00:27:41,159
+the sdmx user Forum
+
+582
+00:27:41,159 --> 00:27:44,220
+um I cannot go in to all the details I
+
+583
+00:27:44,220 --> 00:27:46,259
+just want to mention a couple of things
+
+584
+00:27:46,259 --> 00:27:48,480
+more and for that I will go back to my
+
+585
+00:27:48,480 --> 00:27:50,759
+presentation
+
+586
+00:27:50,759 --> 00:27:51,900
+um
+
+587
+00:27:51,900 --> 00:27:55,200
+so there is also a Yama mobile app which
+
+588
+00:27:55,200 --> 00:27:57,778
+you can use and I encourage you to
+
+589
+00:27:57,778 --> 00:27:59,940
+download it it has some additional
+
+590
+00:27:59,940 --> 00:28:03,659
+features it uh like uh for instance
+
+591
+00:28:03,659 --> 00:28:06,480
+upvoting of answers which is not
+
+592
+00:28:06,480 --> 00:28:09,720
+available on the website uh web browser
+
+593
+00:28:09,720 --> 00:28:11,240
+version
+
+594
+00:28:11,240 --> 00:28:13,200
+and
+
+595
+00:28:13,200 --> 00:28:13,859
+um
+
+596
+00:28:13,859 --> 00:28:16,440
+later on we will share those slides with
+
+597
+00:28:16,440 --> 00:28:18,298
+you uh
+
+598
+00:28:18,298 --> 00:28:20,579
+later on you can choose to download
+
+599
+00:28:20,579 --> 00:28:23,940
+those apps those are the QR codes to go
+
+600
+00:28:23,940 --> 00:28:28,220
+to the App Store of the
+
+601
+00:28:28,220 --> 00:28:31,999
+iOS or Android
+
+602
+00:28:32,579 --> 00:28:36,000
+so how to join the SMX user firm I have
+
+603
+00:28:36,000 --> 00:28:39,359
+already shared in the chat also a link
+
+604
+00:28:39,359 --> 00:28:41,519
+to the instructions
+
+605
+00:28:41,519 --> 00:28:43,619
+um so
+
+606
+00:28:43,619 --> 00:28:47,099
+please read through the instructions it
+
+607
+00:28:47,099 --> 00:28:51,139
+gives you really a step-by-step
+
+608
+00:28:51,619 --> 00:28:54,839
+explanation how to join
+
+609
+00:28:54,839 --> 00:28:56,339
+and
+
+610
+00:28:56,339 --> 00:28:59,038
+once you are at the scmx user Forum
+
+611
+00:28:59,038 --> 00:29:02,759
+don't forget to join also this group so
+
+612
+00:29:02,759 --> 00:29:05,579
+there's on the top right there will be a
+
+613
+00:29:05,579 --> 00:29:08,220
+button join group and when you click on
+
+614
+00:29:08,220 --> 00:29:11,419
+that you will receive notifications
+
+615
+00:29:11,419 --> 00:29:16,519
+from this stmx user forum
+
+616
+00:29:16,819 --> 00:29:19,619
+uh what else well there are a couple of
+
+617
+00:29:19,619 --> 00:29:23,278
+organizations uh where we know that
+
+618
+00:29:23,278 --> 00:29:26,700
+there are issues with joining uh joining
+
+619
+00:29:26,700 --> 00:29:30,260
+with a work email address
+
+620
+00:29:30,480 --> 00:29:31,079
+um
+
+621
+00:29:31,079 --> 00:29:33,839
+so if you are working for one of those
+
+622
+00:29:33,839 --> 00:29:36,798
+organizations uh please send us an email
+
+623
+00:29:36,798 --> 00:29:41,960
+and we can explain to you how to join
+
+624
+00:29:41,960 --> 00:29:45,720
+uh or directly join with your private
+
+625
+00:29:45,720 --> 00:29:48,419
+email address and inform us and we will
+
+626
+00:29:48,419 --> 00:29:51,359
+admit you then very quickly
+
+627
+00:29:51,359 --> 00:29:54,179
+in general we encourage work email
+
+628
+00:29:54,179 --> 00:29:56,519
+addresses but it's not always possible
+
+629
+00:29:56,519 --> 00:29:58,380
+for everyone
+
+630
+00:29:58,380 --> 00:29:59,579
+okay
+
+631
+00:29:59,579 --> 00:30:03,538
+just two more slides one is uh with a
+
+632
+00:30:03,538 --> 00:30:06,298
+slide with a couple of links uh
+
+633
+00:30:06,298 --> 00:30:09,298
+two important documents
+
+634
+00:30:09,298 --> 00:30:12,000
+we will share this later on with you
+
+635
+00:30:12,000 --> 00:30:15,419
+and then there's also a page what to do
+
+636
+00:30:15,419 --> 00:30:19,140
+if you encounter a problem joining the
+
+637
+00:30:19,140 --> 00:30:22,140
+stmx user forum
+
+638
+00:30:22,140 --> 00:30:26,220
+and that's it so that's my part of the
+
+639
+00:30:26,220 --> 00:30:28,079
+presentation today
+
+640
+00:30:28,079 --> 00:30:32,519
+thanks and let me unshare my screen
+
+641
+00:30:32,519 --> 00:30:34,859
+and give back to
+
+642
+00:30:34,859 --> 00:30:38,640
+now I hand over to Jonathan
+
+643
+00:30:38,640 --> 00:30:41,720
+Jonathan go at
+
+644
+00:31:02,278 --> 00:31:05,057
+Jonathan
+
+645
+00:31:14,278 --> 00:31:15,839
+it seems Jonathan has a connection
+
+646
+00:31:15,839 --> 00:31:20,339
+problem yeah so uh in that case
+
+647
+00:31:20,339 --> 00:31:22,980
+um what I want to do is to
+
+648
+00:31:22,980 --> 00:31:23,700
+um
+
+649
+00:31:23,700 --> 00:31:26,940
+Jonathan wanted to ask a second poll
+
+650
+00:31:26,940 --> 00:31:32,880
+question and I will launch that one now
+
+651
+00:31:32,880 --> 00:31:36,839
+um so have you undertaken any sdmx
+
+652
+00:31:36,839 --> 00:31:41,417
+training course during the last year
+
+653
+00:31:42,720 --> 00:31:46,220
+please answer that question
+
+654
+00:31:50,398 --> 00:31:53,099
+so if you want you can also go to the
+
+655
+00:31:53,099 --> 00:31:56,839
+chat the question should be there
+
+656
+00:31:58,819 --> 00:32:02,519
+yeah no worries no worries yeah you you
+
+657
+00:32:02,519 --> 00:32:06,000
+looked Frozen but I hope it works now so
+
+658
+00:32:06,000 --> 00:32:08,278
+if you have bandwidth problems maybe you
+
+659
+00:32:08,278 --> 00:32:11,038
+can switch off the video if you want to
+
+660
+00:32:11,038 --> 00:32:14,220
+um are you still here
+
+661
+00:32:14,220 --> 00:32:20,278
+ah no okay so uh we have now already 84
+
+662
+00:32:20,278 --> 00:32:24,659
+answers and uh most of you haven't done
+
+663
+00:32:24,659 --> 00:32:27,359
+any training during the last year on
+
+664
+00:32:27,359 --> 00:32:29,640
+sdmx so
+
+665
+00:32:29,640 --> 00:32:32,579
+um I would now maybe hand over then to
+
+666
+00:32:32,579 --> 00:32:34,980
+Abdullah who can give you a little bit
+
+667
+00:32:34,980 --> 00:32:37,679
+an overview of the
+
+668
+00:32:37,679 --> 00:32:40,200
+of what is available as training
+
+669
+00:32:40,200 --> 00:32:45,079
+opportunities in stmx over to you
+
+670
+00:32:46,619 --> 00:32:49,558
+thank you Alex let me share my
+
+671
+00:32:49,558 --> 00:32:52,458
+screen
+
+672
+00:32:58,319 --> 00:33:01,740
+can you see the presentation
+
+673
+00:33:01,740 --> 00:33:05,759
+Yep looks good okay thanks very much
+
+674
+00:33:05,759 --> 00:33:07,380
+okay thanks
+
+675
+00:33:07,380 --> 00:33:08,460
+um Alex
+
+676
+00:33:08,460 --> 00:33:10,798
+um uh so good morning good evening good
+
+677
+00:33:10,798 --> 00:33:12,000
+evening everyone and thank you for
+
+678
+00:33:12,000 --> 00:33:13,319
+joining us today
+
+679
+00:33:13,319 --> 00:33:15,359
+uh we are slightly behind the time so I
+
+680
+00:33:15,359 --> 00:33:18,240
+will uh run quickly through
+
+681
+00:33:18,240 --> 00:33:20,398
+um sdmx learning opportunities which we
+
+682
+00:33:20,398 --> 00:33:22,999
+have here today
+
+683
+00:33:23,038 --> 00:33:25,019
+if we're talking about
+
+684
+00:33:25,019 --> 00:33:27,778
+capacity building in general
+
+685
+00:33:27,778 --> 00:33:30,298
+um in the area of sdmx um
+
+686
+00:33:30,298 --> 00:33:32,819
+it has been provided by various agencies
+
+687
+00:33:32,819 --> 00:33:35,460
+by the sdmx sponsors of quest the seven
+
+688
+00:33:35,460 --> 00:33:38,700
+uh sponsors and also by other
+
+689
+00:33:38,700 --> 00:33:40,700
+International and National organizations
+
+690
+00:33:40,700 --> 00:33:43,200
+such as the ILO
+
+691
+00:33:43,200 --> 00:33:45,240
+the African Development Bank and Nation
+
+692
+00:33:45,240 --> 00:33:47,278
+Development Bank the UN Regional
+
+693
+00:33:47,278 --> 00:33:50,819
+commissions including unece una Clark
+
+694
+00:33:50,819 --> 00:33:52,919
+here in escap here in ECA
+
+695
+00:33:52,919 --> 00:33:54,778
+and of course UNESCO
+
+696
+00:33:54,778 --> 00:33:57,000
+all of them have undertaken you know
+
+697
+00:33:57,000 --> 00:33:59,640
+have offered training in sdmx and
+
+698
+00:33:59,640 --> 00:34:01,619
+Italian national statistical office and
+
+699
+00:34:01,619 --> 00:34:03,898
+that is
+
+700
+00:34:03,898 --> 00:34:06,499
+so
+
+701
+00:34:06,599 --> 00:34:08,280
+sometimes it's provided as part of
+
+702
+00:34:08,280 --> 00:34:10,559
+regular training programs in particular
+
+703
+00:34:10,559 --> 00:34:13,019
+eurostat or it can be provided as part
+
+704
+00:34:13,019 --> 00:34:14,898
+of specific projects which is more
+
+705
+00:34:14,898 --> 00:34:18,719
+characteristical of un agencies
+
+706
+00:34:18,719 --> 00:34:21,780
+it has been provided at Global events uh
+
+707
+00:34:21,780 --> 00:34:23,760
+particularly the HDMX Global conference
+
+708
+00:34:23,760 --> 00:34:27,358
+if you were at the last testimix in
+
+709
+00:34:27,358 --> 00:34:29,099
+person as DMX Global conference and
+
+710
+00:34:29,099 --> 00:34:31,199
+Budapest we had a large capacity
+
+711
+00:34:31,199 --> 00:34:33,119
+building program there we also provided
+
+712
+00:34:33,119 --> 00:34:35,699
+some capacity building
+
+713
+00:34:35,699 --> 00:34:38,639
+um in 2021 uh when the Conference was
+
+714
+00:34:38,639 --> 00:34:41,039
+held online
+
+715
+00:34:41,039 --> 00:34:42,539
+of course
+
+716
+00:34:42,539 --> 00:34:43,199
+um
+
+717
+00:34:43,199 --> 00:34:46,500
+we all know what hit is three years ago
+
+718
+00:34:46,500 --> 00:34:49,918
+in 2020 when we went into lockdown and
+
+719
+00:34:49,918 --> 00:34:53,159
+the in-person training became a luxury
+
+720
+00:34:53,159 --> 00:34:55,460
+unachievable luxury
+
+721
+00:34:55,460 --> 00:34:58,199
+so since the pandemic started for the
+
+722
+00:34:58,199 --> 00:35:00,780
+last three years e-learning courses have
+
+723
+00:35:00,780 --> 00:35:02,760
+increasingly become a focus
+
+724
+00:35:02,760 --> 00:35:07,880
+and we will talk about some of them now
+
+725
+00:35:09,838 --> 00:35:11,960
+so
+
+726
+00:35:11,960 --> 00:35:14,579
+the first training course I'd like to
+
+727
+00:35:14,579 --> 00:35:17,219
+talk about is the sdmx foundation a
+
+728
+00:35:17,219 --> 00:35:19,139
+learning course this is an introductory
+
+729
+00:35:19,139 --> 00:35:21,900
+course introduction to sdms its
+
+730
+00:35:21,900 --> 00:35:24,179
+development was led by the Asian
+
+731
+00:35:24,179 --> 00:35:26,338
+development Bank in cooperation with
+
+732
+00:35:26,338 --> 00:35:28,019
+unsd
+
+733
+00:35:28,019 --> 00:35:31,019
+and
+
+734
+00:35:31,380 --> 00:35:33,420
+social commission for Asia and the
+
+735
+00:35:33,420 --> 00:35:35,820
+Pacific as well as Statistical Institute
+
+736
+00:35:35,820 --> 00:35:37,679
+for Asia and the Pacific we work
+
+737
+00:35:37,679 --> 00:35:39,900
+together on this um
+
+738
+00:35:39,900 --> 00:35:43,260
+e-learning course it was finished about
+
+739
+00:35:43,260 --> 00:35:44,579
+a year ago
+
+740
+00:35:44,579 --> 00:35:47,460
+and it opened for registrations in March
+
+741
+00:35:47,460 --> 00:35:51,900
+last year and it run from March to from
+
+742
+00:35:51,900 --> 00:35:56,098
+late March to early May 2022.
+
+743
+00:35:57,599 --> 00:35:59,639
+the board for the training course where
+
+744
+00:35:59,639 --> 00:36:00,719
+people could
+
+745
+00:36:00,719 --> 00:36:04,199
+answer questions receive answers it was
+
+746
+00:36:04,199 --> 00:36:05,519
+provided
+
+747
+00:36:05,519 --> 00:36:06,980
+um
+
+748
+00:36:06,980 --> 00:36:10,858
+as part of a specially set up user form
+
+749
+00:36:10,858 --> 00:36:13,380
+which is why it was not available which
+
+750
+00:36:13,380 --> 00:36:16,619
+is why after the you know
+
+751
+00:36:16,619 --> 00:36:19,139
+the course closed it ceased to be
+
+752
+00:36:19,139 --> 00:36:20,400
+available
+
+753
+00:36:20,400 --> 00:36:24,179
+however now that
+
+754
+00:36:24,179 --> 00:36:25,320
+um
+
+755
+00:36:25,320 --> 00:36:28,019
+the sdmx user forum is up and dreading
+
+756
+00:36:28,019 --> 00:36:30,480
+support for that training course is
+
+757
+00:36:30,480 --> 00:36:32,880
+provided through the sdmx user forum and
+
+758
+00:36:32,880 --> 00:36:35,159
+therefore the Asian development Bank
+
+759
+00:36:35,159 --> 00:36:36,300
+kindly
+
+760
+00:36:36,300 --> 00:36:40,019
+uh made this training available on a
+
+761
+00:36:40,019 --> 00:36:41,400
+permanent basis
+
+762
+00:36:41,400 --> 00:36:45,199
+about a month ago
+
+763
+00:36:46,500 --> 00:36:47,940
+so
+
+764
+00:36:47,940 --> 00:36:50,159
+the module the training consists of two
+
+765
+00:36:50,159 --> 00:36:53,880
+modules module one is an overview and
+
+766
+00:36:53,880 --> 00:36:55,920
+business case which is important for
+
+767
+00:36:55,920 --> 00:36:57,000
+both
+
+768
+00:36:57,000 --> 00:36:58,980
+um
+
+769
+00:36:58,980 --> 00:37:02,280
+managers those who are trying to
+
+770
+00:37:02,280 --> 00:37:04,380
+understand how sdmx can help the
+
+771
+00:37:04,380 --> 00:37:07,559
+Enterprise but also technical experts to
+
+772
+00:37:07,559 --> 00:37:09,599
+understand what the business case is and
+
+773
+00:37:09,599 --> 00:37:12,719
+basically also how how to use the stmx
+
+774
+00:37:12,719 --> 00:37:14,880
+and module two
+
+775
+00:37:14,880 --> 00:37:16,380
+is
+
+776
+00:37:16,380 --> 00:37:17,780
+um
+
+777
+00:37:17,780 --> 00:37:20,460
+oriented towards the technical experts
+
+778
+00:37:20,460 --> 00:37:23,099
+and it does give an introduction you
+
+779
+00:37:23,099 --> 00:37:26,159
+know the introduction to the basic
+
+780
+00:37:26,159 --> 00:37:29,059
+concepts of sdmx with the information
+
+781
+00:37:29,059 --> 00:37:31,619
+the basics of the information model the
+
+782
+00:37:31,619 --> 00:37:33,780
+candid oriented guidelines and and
+
+783
+00:37:33,780 --> 00:37:35,099
+others
+
+784
+00:37:35,099 --> 00:37:36,420
+so
+
+785
+00:37:36,420 --> 00:37:37,559
+um
+
+786
+00:37:37,559 --> 00:37:40,858
+the course had a very high attendance
+
+787
+00:37:40,858 --> 00:37:42,239
+last year
+
+788
+00:37:42,239 --> 00:37:45,539
+over 400 people I think about 430 people
+
+789
+00:37:45,539 --> 00:37:47,338
+completed the course and received the
+
+790
+00:37:47,338 --> 00:37:48,838
+certificate
+
+791
+00:37:48,838 --> 00:37:51,599
+and now it is available
+
+792
+00:37:51,599 --> 00:37:52,800
+um
+
+793
+00:37:52,800 --> 00:37:56,460
+on a permanent basis so if you would
+
+794
+00:37:56,460 --> 00:37:59,060
+like to
+
+795
+00:37:59,420 --> 00:38:03,000
+learn if you are have heard about sdmx
+
+796
+00:38:03,000 --> 00:38:03,838
+but
+
+797
+00:38:03,838 --> 00:38:06,780
+don't really know what it is and how to
+
+798
+00:38:06,780 --> 00:38:09,059
+use it what it can be used for
+
+799
+00:38:09,059 --> 00:38:11,338
+then I think that this training can be
+
+800
+00:38:11,338 --> 00:38:13,999
+very helpful
+
+801
+00:38:14,099 --> 00:38:16,199
+another training course
+
+802
+00:38:16,199 --> 00:38:19,500
+um I wanted to introduce is the a
+
+803
+00:38:19,500 --> 00:38:21,960
+training course on sdmx for sdg
+
+804
+00:38:21,960 --> 00:38:24,000
+indicators
+
+805
+00:38:24,000 --> 00:38:28,199
+it was developed by unsd and the um
+
+806
+00:38:28,199 --> 00:38:31,199
+working group on SDM on sdmx for the for
+
+807
+00:38:31,199 --> 00:38:34,019
+sdg indicators and its objective is to
+
+808
+00:38:34,019 --> 00:38:35,519
+support the data exchange and
+
+809
+00:38:35,519 --> 00:38:37,858
+dissemination of a sustainable
+
+810
+00:38:37,858 --> 00:38:41,179
+development goals indicators
+
+811
+00:38:42,239 --> 00:38:44,280
+um
+
+812
+00:38:44,280 --> 00:38:48,380
+this e-learning course is um
+
+813
+00:38:48,380 --> 00:38:51,480
+intended for those who already have a
+
+814
+00:38:51,480 --> 00:38:54,358
+basic knowledge as DMX of sdmx and would
+
+815
+00:38:54,358 --> 00:38:57,300
+like to learn how to use the sdg data
+
+816
+00:38:57,300 --> 00:38:58,559
+structure definition and how to
+
+817
+00:38:58,559 --> 00:39:01,019
+establish LG data exchange and
+
+818
+00:39:01,019 --> 00:39:03,599
+dissemination
+
+819
+00:39:03,599 --> 00:39:06,300
+um so there is a prerequisite unlike the
+
+820
+00:39:06,300 --> 00:39:08,219
+previous one there is a prerequisite I
+
+821
+00:39:08,219 --> 00:39:10,440
+mean there is a prerequisite for this
+
+822
+00:39:10,440 --> 00:39:13,380
+training is a basic knowledge of sdmx
+
+823
+00:39:13,380 --> 00:39:15,719
+and uh
+
+824
+00:39:15,719 --> 00:39:18,900
+it is advisable that you take the sdmx
+
+825
+00:39:18,900 --> 00:39:21,059
+foundation course before taking the
+
+826
+00:39:21,059 --> 00:39:24,000
+training on sdmx for the sdgs so that to
+
+827
+00:39:24,000 --> 00:39:26,880
+familiarize yourself with the basic um
+
+828
+00:39:26,880 --> 00:39:28,800
+um
+
+829
+00:39:28,800 --> 00:39:31,079
+knowledge and in the tech wire a basic
+
+830
+00:39:31,079 --> 00:39:34,459
+understanding of sdmx
+
+831
+00:39:34,920 --> 00:39:37,380
+um the registration link is here it will
+
+832
+00:39:37,380 --> 00:39:39,358
+be announced at the sdmx user Forum
+
+833
+00:39:39,358 --> 00:39:42,300
+today so if you join the user Forum
+
+834
+00:39:42,300 --> 00:39:44,460
+today which are very much encouraged to
+
+835
+00:39:44,460 --> 00:39:46,260
+this is probably the first thing that
+
+836
+00:39:46,260 --> 00:39:48,679
+you will see
+
+837
+00:39:49,320 --> 00:39:51,719
+I will not go in detail about the dot
+
+838
+00:39:51,719 --> 00:39:53,159
+stat Academy learning courses because
+
+839
+00:39:53,159 --> 00:39:56,219
+Jonathan whose presentation is after
+
+840
+00:39:56,219 --> 00:39:58,380
+mine uh we'll talk about it in further
+
+841
+00:39:58,380 --> 00:40:00,358
+detail but that's that Academy is
+
+842
+00:40:00,358 --> 00:40:03,000
+growing very rapidly it has two learning
+
+843
+00:40:03,000 --> 00:40:04,559
+courses already available and it's
+
+844
+00:40:04,559 --> 00:40:06,659
+working on others the third that are
+
+845
+00:40:06,659 --> 00:40:08,338
+available are introduction to estimates
+
+846
+00:40:08,338 --> 00:40:10,559
+for data producers technical expert
+
+847
+00:40:10,559 --> 00:40:11,460
+studies
+
+848
+00:40:11,460 --> 00:40:14,579
+and the other one is Introduction to
+
+849
+00:40:14,579 --> 00:40:17,239
+sdmi structural modeling both very
+
+850
+00:40:17,239 --> 00:40:19,320
+useful and very important training
+
+851
+00:40:19,320 --> 00:40:21,179
+courses
+
+852
+00:40:21,179 --> 00:40:23,639
+and very briefly to talk about
+
+853
+00:40:23,639 --> 00:40:24,300
+um
+
+854
+00:40:24,300 --> 00:40:26,519
+the planned alerting courses the Asian
+
+855
+00:40:26,519 --> 00:40:28,920
+development bank is leading the
+
+856
+00:40:28,920 --> 00:40:31,260
+um development of
+
+857
+00:40:31,260 --> 00:40:34,679
+a very important alerting course on as
+
+858
+00:40:34,679 --> 00:40:36,480
+on a on the
+
+859
+00:40:36,480 --> 00:40:39,440
+as On sdmx Tools
+
+860
+00:40:39,440 --> 00:40:41,940
+this course will
+
+861
+00:40:41,940 --> 00:40:43,940
+um
+
+862
+00:40:46,320 --> 00:40:48,179
+present we'll provide an introduction
+
+863
+00:40:48,179 --> 00:40:50,400
+and Hands-On exercises for some of the
+
+864
+00:40:50,400 --> 00:40:53,338
+commonly used and sdmx tools and it's
+
+865
+00:40:53,338 --> 00:40:55,320
+working the the development is led by
+
+866
+00:40:55,320 --> 00:40:56,519
+the Asian development Bank in
+
+867
+00:40:56,519 --> 00:40:59,099
+cooperation with unsd ILO as cap and
+
+868
+00:40:59,099 --> 00:41:02,639
+Capp and other agencies those which are
+
+869
+00:41:02,639 --> 00:41:04,559
+which develop the tools
+
+870
+00:41:04,559 --> 00:41:06,780
+creation development backend you and SD
+
+871
+00:41:06,780 --> 00:41:10,858
+are also planning to develop later the
+
+872
+00:41:10,858 --> 00:41:12,480
+main specific learning course so we have
+
+873
+00:41:12,480 --> 00:41:14,219
+now won the main specific learning
+
+874
+00:41:14,219 --> 00:41:17,338
+course on sdmax for the sdgs but we're
+
+875
+00:41:17,338 --> 00:41:19,380
+also going to um Aviation Development
+
+876
+00:41:19,380 --> 00:41:21,719
+Bank with you know in cooperation with
+
+877
+00:41:21,719 --> 00:41:24,539
+unsd are also going to develop you know
+
+878
+00:41:24,539 --> 00:41:25,679
+planning to develop training for
+
+879
+00:41:25,679 --> 00:41:28,858
+National accounts um uh trade and others
+
+880
+00:41:28,858 --> 00:41:31,858
+and those that Academy as I mentioned is
+
+881
+00:41:31,858 --> 00:41:33,539
+working on
+
+882
+00:41:33,539 --> 00:41:35,760
+their own e-learning courses which
+
+883
+00:41:35,760 --> 00:41:38,940
+Jonathan will talk about in more detail
+
+884
+00:41:38,940 --> 00:41:43,039
+and this is it from me thank you
+
+885
+00:41:43,739 --> 00:41:46,679
+so I will start my presentation here
+
+886
+00:41:46,679 --> 00:41:48,599
+thank you Abdullah
+
+887
+00:41:48,599 --> 00:41:50,760
+um yeah we have a
+
+888
+00:41:50,760 --> 00:41:54,119
+we have some technical problems with uh
+
+889
+00:41:54,119 --> 00:41:56,720
+Jonathan
+
+890
+00:41:56,820 --> 00:42:01,500
+um connections so I don't see him in the
+
+891
+00:42:01,500 --> 00:42:05,099
+meeting right now so what I will do is
+
+892
+00:42:05,099 --> 00:42:09,719
+maybe I will first share our third and
+
+893
+00:42:09,719 --> 00:42:11,599
+last question
+
+894
+00:42:11,599 --> 00:42:13,820
+which is
+
+895
+00:42:13,820 --> 00:42:17,579
+uh about in what areas you would like us
+
+896
+00:42:17,579 --> 00:42:21,900
+to do more training in the future and
+
+897
+00:42:21,900 --> 00:42:24,380
+I'll do that right now
+
+898
+00:42:24,380 --> 00:42:27,599
+uh so in what areas would you like to
+
+899
+00:42:27,599 --> 00:42:30,119
+see more stmx training courses made
+
+900
+00:42:30,119 --> 00:42:32,159
+available and then you have the choice
+
+901
+00:42:32,159 --> 00:42:35,099
+between data modeling data processing
+
+902
+00:42:35,099 --> 00:42:36,719
+and integration
+
+903
+00:42:36,719 --> 00:42:39,420
+data dissemination data reporting and
+
+904
+00:42:39,420 --> 00:42:42,119
+you can select several options if you
+
+905
+00:42:42,119 --> 00:42:44,300
+wish
+
+906
+00:42:45,599 --> 00:42:49,759
+so please do that right now
+
+907
+00:42:52,400 --> 00:42:57,179
+and we have the results coming in
+
+908
+00:42:57,179 --> 00:43:00,480
+um so we're yes go ahead uh Alex
+
+909
+00:43:00,480 --> 00:43:03,838
+as we wait for Jonathan to join maybe
+
+910
+00:43:03,838 --> 00:43:06,480
+yes we should uh we can answer questions
+
+911
+00:43:06,480 --> 00:43:07,858
+if there are any
+
+912
+00:43:07,858 --> 00:43:13,139
+yep we can do that so but first uh let
+
+913
+00:43:13,139 --> 00:43:15,317
+me
+
+914
+00:43:15,358 --> 00:43:17,880
+yeah so
+
+915
+00:43:17,880 --> 00:43:19,380
+um
+
+916
+00:43:19,380 --> 00:43:22,500
+so there were now questions about
+
+917
+00:43:22,500 --> 00:43:26,099
+um sorry people were saying that they
+
+918
+00:43:26,099 --> 00:43:27,960
+would like to have training on data
+
+919
+00:43:27,960 --> 00:43:29,900
+modeling 23
+
+920
+00:43:29,900 --> 00:43:34,619
+data processing and integration 30 data
+
+921
+00:43:34,619 --> 00:43:39,239
+dissemination 25 and data reporting 22
+
+922
+00:43:39,239 --> 00:43:43,800
+so 84 people have answered and I saw
+
+923
+00:43:43,800 --> 00:43:45,559
+very briefly
+
+924
+00:43:45,559 --> 00:43:50,519
+Jonathan Jonathan are you back with us
+
+925
+00:43:50,519 --> 00:43:54,780
+yes can you hear me yes okay uh it's
+
+926
+00:43:54,780 --> 00:43:56,699
+just starting again sorry apologies for
+
+927
+00:43:56,699 --> 00:43:58,260
+that uh team's just shutting down
+
+928
+00:43:58,260 --> 00:43:59,760
+without warning
+
+929
+00:43:59,760 --> 00:44:03,659
+oh that's not good uh shall we try with
+
+930
+00:44:03,659 --> 00:44:07,098
+your presentation right now
+
+931
+00:44:07,318 --> 00:44:10,199
+so Abdullah has done his presentation it
+
+932
+00:44:10,199 --> 00:44:14,280
+would be now your turn yeah just let me
+
+933
+00:44:14,280 --> 00:44:16,819
+get this up
+
+934
+00:44:22,858 --> 00:44:25,500
+and then uh while we wait for Jonathan
+
+935
+00:44:25,500 --> 00:44:28,260
+bringing up the presentation uh just
+
+936
+00:44:28,260 --> 00:44:31,159
+another encouragement for you everyone
+
+937
+00:44:31,159 --> 00:44:34,199
+if you have questions please put them in
+
+938
+00:44:34,199 --> 00:44:36,719
+the chat and we will come to them in a
+
+939
+00:44:36,719 --> 00:44:37,980
+few minutes
+
+940
+00:44:37,980 --> 00:44:42,679
+okay go ahead Jonathan thanks
+
+941
+00:44:42,679 --> 00:44:45,239
+okay so hopefully you can see my
+
+942
+00:44:45,239 --> 00:44:47,780
+presentation and you can name it yes and
+
+943
+00:44:47,780 --> 00:44:49,679
+hopefully we're not going to have any
+
+944
+00:44:49,679 --> 00:44:53,639
+more technical issues on my side uh so
+
+945
+00:44:53,639 --> 00:44:58,079
+yeah so thank you uh for that and um
+
+946
+00:44:58,079 --> 00:45:00,239
+um I think it's quite timely we've
+
+947
+00:45:00,239 --> 00:45:01,920
+discussed this also because it seemed
+
+948
+00:45:01,920 --> 00:45:04,559
+like a vast number of people majority of
+
+949
+00:45:04,559 --> 00:45:05,219
+people
+
+950
+00:45:05,219 --> 00:45:07,679
+aren't actually or haven't taken courses
+
+951
+00:45:07,679 --> 00:45:10,019
+recently so
+
+952
+00:45:10,019 --> 00:45:12,838
+um and there is interest
+
+953
+00:45:12,838 --> 00:45:15,000
+um Abdullah did present a number of
+
+954
+00:45:15,000 --> 00:45:19,079
+these so I I will my presentation will
+
+955
+00:45:19,079 --> 00:45:22,380
+look at one particular initiative in
+
+956
+00:45:22,380 --> 00:45:24,960
+um focus on the dot stat Academy
+
+957
+00:45:24,960 --> 00:45:26,579
+um and also touched on a few other
+
+958
+00:45:26,579 --> 00:45:28,318
+initiatives from other organizations
+
+959
+00:45:28,318 --> 00:45:30,000
+that uh
+
+960
+00:45:30,000 --> 00:45:33,900
+um that are conducting estimates courses
+
+961
+00:45:33,900 --> 00:45:36,000
+um so
+
+962
+00:45:36,000 --> 00:45:40,019
+yeah so what is the Dutch Academy so um
+
+963
+00:45:40,019 --> 00:45:42,739
+the dot set Academy is a
+
+964
+00:45:42,739 --> 00:45:45,300
+self-paced online Learning Hub it's
+
+965
+00:45:45,300 --> 00:45:48,119
+providing today free online training and
+
+966
+00:45:48,119 --> 00:45:50,579
+resources to support capacity building
+
+967
+00:45:50,579 --> 00:45:53,358
+in the dotset Suites
+
+968
+00:45:53,358 --> 00:45:57,599
+but also which is a topic of the day XD
+
+969
+00:45:57,599 --> 00:46:00,300
+mix and data modeling for data producers
+
+970
+00:46:00,300 --> 00:46:02,699
+and data toolers so data tool as being
+
+971
+00:46:02,699 --> 00:46:05,280
+the technologists
+
+972
+00:46:05,280 --> 00:46:07,800
+um so who's behind this so the state
+
+973
+00:46:07,800 --> 00:46:09,900
+academy is initiative from the sacc so
+
+974
+00:46:09,900 --> 00:46:12,659
+this is a um Alex introduced us at the
+
+975
+00:46:12,659 --> 00:46:14,579
+beginning these disco information system
+
+976
+00:46:14,579 --> 00:46:16,739
+collaboration Community uh this is a
+
+977
+00:46:16,739 --> 00:46:18,300
+group of organizations that is
+
+978
+00:46:18,300 --> 00:46:22,019
+collaborating together since around 2010
+
+979
+00:46:22,019 --> 00:46:23,818
+um and having now grown to 16 members
+
+980
+00:46:23,818 --> 00:46:25,380
+you can see these members on screen so
+
+981
+00:46:25,380 --> 00:46:27,960
+quite diverse across a range of
+
+982
+00:46:27,960 --> 00:46:30,719
+statistical producing organizations from
+
+983
+00:46:30,719 --> 00:46:33,900
+International rational and central banks
+
+984
+00:46:33,900 --> 00:46:37,260
+and really our focus is on on delivering
+
+985
+00:46:37,260 --> 00:46:39,059
+Concrete Solutions to common problems
+
+986
+00:46:39,059 --> 00:46:42,300
+and this includes driving forward XNX
+
+987
+00:46:42,300 --> 00:46:43,519
+implementation
+
+988
+00:46:43,519 --> 00:46:44,760
+[Music]
+
+989
+00:46:44,760 --> 00:46:47,400
+the Workwear number of Partners so in
+
+990
+00:46:47,400 --> 00:46:50,219
+our Partnerships that we build we are
+
+991
+00:46:50,219 --> 00:46:52,559
+supporting standardization as I
+
+992
+00:46:52,559 --> 00:46:54,719
+mentioned in XT Max tools data modeling
+
+993
+00:46:54,719 --> 00:46:57,179
+and capacity development including some
+
+994
+00:46:57,179 --> 00:47:00,239
+of those Partners on the call today
+
+995
+00:47:00,239 --> 00:47:02,579
+um so the Dutch Academy is
+
+996
+00:47:02,579 --> 00:47:05,460
+um uh supporting learning paths and
+
+997
+00:47:05,460 --> 00:47:07,380
+trading needs as I mentioned data
+
+998
+00:47:07,380 --> 00:47:09,659
+producers and data toolers so data
+
+999
+00:47:09,659 --> 00:47:12,000
+produces the ones producing and managing
+
+1000
+00:47:12,000 --> 00:47:15,119
+the data process uh modeling
+
+1001
+00:47:15,119 --> 00:47:17,159
+um you know processing of the data and
+
+1002
+00:47:17,159 --> 00:47:19,440
+dissemination of the data
+
+1003
+00:47:19,440 --> 00:47:22,920
+um the content is really designed to be
+
+1004
+00:47:22,920 --> 00:47:26,219
+engaging uh and and be more practical so
+
+1005
+00:47:26,219 --> 00:47:29,460
+really sort of uh aligns to how you
+
+1006
+00:47:29,460 --> 00:47:31,800
+would apply this in the real world with
+
+1007
+00:47:31,800 --> 00:47:34,199
+real world scenarios and quiz based
+
+1008
+00:47:34,199 --> 00:47:37,019
+activities and interactive exercises
+
+1009
+00:47:37,019 --> 00:47:39,179
+the learning levels are designed also to
+
+1010
+00:47:39,179 --> 00:47:40,739
+sort of build your Knowledge and Skills
+
+1011
+00:47:40,739 --> 00:47:42,559
+over time so you have this sort of uh
+
+1012
+00:47:42,559 --> 00:47:46,019
+goal if you want that you want to reach
+
+1013
+00:47:46,019 --> 00:47:48,059
+um and the the idea and the way that the
+
+1014
+00:47:48,059 --> 00:47:50,219
+courses are designed and
+
+1015
+00:47:50,219 --> 00:47:53,760
+structured is really to help you reach
+
+1016
+00:47:53,760 --> 00:47:55,800
+that goal uh whatever that my goal might
+
+1017
+00:47:55,800 --> 00:47:57,780
+be
+
+1018
+00:47:57,780 --> 00:48:01,800
+um just uh to sort of uh quote Alex also
+
+1019
+00:48:01,800 --> 00:48:03,599
+as as we are uh statistical
+
+1020
+00:48:03,599 --> 00:48:05,039
+organizations we do like numbers so
+
+1021
+00:48:05,039 --> 00:48:07,380
+here's a few numbers from the academy
+
+1022
+00:48:07,380 --> 00:48:10,318
+um so today we have uh we're just over a
+
+1023
+00:48:10,318 --> 00:48:11,099
+year
+
+1024
+00:48:11,099 --> 00:48:13,739
+um old on this and we have a 275
+
+1025
+00:48:13,739 --> 00:48:16,980
+registered users uh 360 enrolled in in
+
+1026
+00:48:16,980 --> 00:48:18,659
+across the different courses that we
+
+1027
+00:48:18,659 --> 00:48:19,920
+have
+
+1028
+00:48:19,920 --> 00:48:22,440
+um and today we have uh close to 180
+
+1029
+00:48:22,440 --> 00:48:26,280
+certified Learners and we have a number
+
+1030
+00:48:26,280 --> 00:48:28,500
+of resources uh around 100 resources
+
+1031
+00:48:28,500 --> 00:48:30,838
+this isn't just courses this is also a
+
+1032
+00:48:30,838 --> 00:48:34,159
+documents and um and materials videos
+
+1033
+00:48:34,159 --> 00:48:36,358
+webinars and things like this that we
+
+1034
+00:48:36,358 --> 00:48:39,438
+have online as well
+
+1035
+00:48:39,900 --> 00:48:43,500
+um so today there are two uh courses
+
+1036
+00:48:43,500 --> 00:48:46,139
+that are related to XD mix and and data
+
+1037
+00:48:46,139 --> 00:48:48,000
+modeling so we have this introduction
+
+1038
+00:48:48,000 --> 00:48:49,559
+course to actually mixed with data
+
+1039
+00:48:49,559 --> 00:48:52,318
+producers this is really the basics so
+
+1040
+00:48:52,318 --> 00:48:54,900
+if you're if you're looking to uh learn
+
+1041
+00:48:54,900 --> 00:48:57,480
+about XNX for the first time or maybe
+
+1042
+00:48:57,480 --> 00:49:00,539
+you just want a refresher or to sort of
+
+1043
+00:49:00,539 --> 00:49:02,460
+really understand a bit more about the
+
+1044
+00:49:02,460 --> 00:49:04,318
+business case and the
+
+1045
+00:49:04,318 --> 00:49:06,300
+um and how economics is structured
+
+1046
+00:49:06,300 --> 00:49:09,420
+building also on aspects that um Sid
+
+1047
+00:49:09,420 --> 00:49:11,579
+introduced at the beginning this course
+
+1048
+00:49:11,579 --> 00:49:14,460
+is really for you so start here and it's
+
+1049
+00:49:14,460 --> 00:49:15,900
+also a prerequisite for the second
+
+1050
+00:49:15,900 --> 00:49:18,900
+course which is uh the introduction to
+
+1051
+00:49:18,900 --> 00:49:20,880
+academic structure modeling for data
+
+1052
+00:49:20,880 --> 00:49:23,940
+producers so this course is a course
+
+1053
+00:49:23,940 --> 00:49:25,559
+that would guide you through step by
+
+1054
+00:49:25,559 --> 00:49:26,400
+step
+
+1055
+00:49:26,400 --> 00:49:28,739
+modeling process it uses a tool called
+
+1056
+00:49:28,739 --> 00:49:31,559
+The xmx Matrix generator this is an
+
+1057
+00:49:31,559 --> 00:49:32,780
+Excel
+
+1058
+00:49:32,780 --> 00:49:35,579
+macro workbook that really guides you
+
+1059
+00:49:35,579 --> 00:49:37,199
+through that process helps you every
+
+1060
+00:49:37,199 --> 00:49:40,920
+step of the way and will you know really
+
+1061
+00:49:40,920 --> 00:49:43,318
+cover those elements to to get you into
+
+1062
+00:49:43,318 --> 00:49:45,179
+the modeling and start to apply that
+
+1063
+00:49:45,179 --> 00:49:47,838
+more practically in your daily work
+
+1064
+00:49:47,838 --> 00:49:50,639
+and so yeah this this course is all
+
+1065
+00:49:50,639 --> 00:49:53,699
+freely available these were authored by
+
+1066
+00:49:53,699 --> 00:49:56,699
+David baraklaf who is uh chair of the
+
+1067
+00:49:56,699 --> 00:50:01,260
+swg xmx as disc working group and also
+
+1068
+00:50:01,260 --> 00:50:04,500
+leads the oecd modeling and migration
+
+1069
+00:50:04,500 --> 00:50:10,578
+work on xdmx and data at UIC do
+
+1070
+00:50:10,739 --> 00:50:13,559
+um also a nice thing at the end of it
+
+1071
+00:50:13,559 --> 00:50:15,838
+you will get certificate of completion
+
+1072
+00:50:15,838 --> 00:50:18,780
+so just to say thank you for taking the
+
+1073
+00:50:18,780 --> 00:50:21,838
+course and and to show that you've
+
+1074
+00:50:21,838 --> 00:50:24,179
+actually completed it um and and this is
+
+1075
+00:50:24,179 --> 00:50:25,500
+available at the end once you've
+
+1076
+00:50:25,500 --> 00:50:28,739
+completed all modules and passed
+
+1077
+00:50:28,739 --> 00:50:30,838
+um Abdullah touched on this also in his
+
+1078
+00:50:30,838 --> 00:50:33,119
+presentation so we we do have some
+
+1079
+00:50:33,119 --> 00:50:35,699
+courses that are are coming uh this year
+
+1080
+00:50:35,699 --> 00:50:38,099
+uh we have a vocabulary course actually
+
+1081
+00:50:38,099 --> 00:50:39,900
+split into two parts
+
+1082
+00:50:39,900 --> 00:50:41,880
+um uh the first one is really a
+
+1083
+00:50:41,880 --> 00:50:44,219
+beginners so it's it's touching on the
+
+1084
+00:50:44,219 --> 00:50:48,300
+the terms that are used within uh xdmx
+
+1085
+00:50:48,300 --> 00:50:52,559
+that you need to understand uh to Define
+
+1086
+00:50:52,559 --> 00:50:55,800
+your tables and the related processes
+
+1087
+00:50:55,800 --> 00:50:57,838
+and then we have a second course which
+
+1088
+00:50:57,838 --> 00:51:00,480
+will build on this for those who really
+
+1089
+00:51:00,480 --> 00:51:03,599
+uh want to go further in their
+
+1090
+00:51:03,599 --> 00:51:06,659
+understanding of academics terms um and
+
+1091
+00:51:06,659 --> 00:51:08,880
+we'll start to touch on things such as
+
+1092
+00:51:08,880 --> 00:51:12,300
+in reference romance data and and more
+
+1093
+00:51:12,300 --> 00:51:14,099
+um we also have a very important course
+
+1094
+00:51:14,099 --> 00:51:16,199
+that's coming later this year which is
+
+1095
+00:51:16,199 --> 00:51:18,960
+about optimizing the user experience
+
+1096
+00:51:18,960 --> 00:51:20,519
+um it's very important to understand
+
+1097
+00:51:20,519 --> 00:51:23,159
+that data modeling is just an XD mix is
+
+1098
+00:51:23,159 --> 00:51:25,318
+not just about exchange of data but it
+
+1099
+00:51:25,318 --> 00:51:27,300
+can drive the dissemination and we saw
+
+1100
+00:51:27,300 --> 00:51:29,818
+that also in some responses the way
+
+1101
+00:51:29,818 --> 00:51:31,679
+people are using X makes the day into
+
+1102
+00:51:31,679 --> 00:51:33,539
+simulation and it's very important to
+
+1103
+00:51:33,539 --> 00:51:35,280
+understand that your modeling decisions
+
+1104
+00:51:35,280 --> 00:51:37,739
+also have implications for how the user
+
+1105
+00:51:37,739 --> 00:51:39,059
+consumes your data and how it's
+
+1106
+00:51:39,059 --> 00:51:41,159
+presented in in your dissemination
+
+1107
+00:51:41,159 --> 00:51:42,260
+environment
+
+1108
+00:51:42,260 --> 00:51:45,719
+so for example in the dots test Suite in
+
+1109
+00:51:45,719 --> 00:51:47,519
+the data explorer that we component we
+
+1110
+00:51:47,519 --> 00:51:51,000
+have is very much xmx driven so how you
+
+1111
+00:51:51,000 --> 00:51:53,159
+design how you constraint you know you
+
+1112
+00:51:53,159 --> 00:51:55,139
+build your data views this is very
+
+1113
+00:51:55,139 --> 00:51:56,818
+important to consider during that
+
+1114
+00:51:56,818 --> 00:51:58,858
+process and this course will actually
+
+1115
+00:51:58,858 --> 00:52:02,480
+allow and and give you the skills and
+
+1116
+00:52:02,480 --> 00:52:05,219
+knowledge to be able to do that in a
+
+1117
+00:52:05,219 --> 00:52:06,838
+confident manner
+
+1118
+00:52:06,838 --> 00:52:09,719
+a few courses that are in the pipeline
+
+1119
+00:52:09,719 --> 00:52:13,619
+but they're not there yet and this these
+
+1120
+00:52:13,619 --> 00:52:15,960
+these have no set date but
+
+1121
+00:52:15,960 --> 00:52:18,420
+um we're discussing internally about the
+
+1122
+00:52:18,420 --> 00:52:20,280
+courses around reference and metadata
+
+1123
+00:52:20,280 --> 00:52:22,679
+unit of measure which is also an
+
+1124
+00:52:22,679 --> 00:52:25,619
+important topic and quite complex and
+
+1125
+00:52:25,619 --> 00:52:27,838
+structural metadata governance so this
+
+1126
+00:52:27,838 --> 00:52:29,880
+is also an important topic it's not
+
+1127
+00:52:29,880 --> 00:52:31,800
+necessarily related to the modding the
+
+1128
+00:52:31,800 --> 00:52:34,318
+next mix itself but it's uh it's very
+
+1129
+00:52:34,318 --> 00:52:37,380
+important how you set up your governance
+
+1130
+00:52:37,380 --> 00:52:40,079
+to support this work and modeling work
+
+1131
+00:52:40,079 --> 00:52:42,119
+within your organization especially when
+
+1132
+00:52:42,119 --> 00:52:44,059
+we think about harmonization and
+
+1133
+00:52:44,059 --> 00:52:46,920
+building sort of common elements such as
+
+1134
+00:52:46,920 --> 00:52:48,599
+common code lists across your
+
+1135
+00:52:48,599 --> 00:52:49,139
+organization
+
+1136
+00:52:49,139 --> 00:52:50,338
+[Music]
+
+1137
+00:52:50,338 --> 00:52:53,099
+there are a couple other courses that uh
+
+1138
+00:52:53,099 --> 00:52:56,039
+uh can mention from different partners
+
+1139
+00:52:56,039 --> 00:52:58,019
+that we work with also you're a staff
+
+1140
+00:52:58,019 --> 00:52:59,639
+for example have a three-day in-person
+
+1141
+00:52:59,639 --> 00:53:01,980
+training it's held once a year
+
+1142
+00:53:01,980 --> 00:53:03,960
+um this is on in their premises in
+
+1143
+00:53:03,960 --> 00:53:06,780
+Luxembourg uh the links here so you the
+
+1144
+00:53:06,780 --> 00:53:08,400
+slides will be shared afterwards and you
+
+1145
+00:53:08,400 --> 00:53:11,519
+can go and and search yourself and
+
+1146
+00:53:11,519 --> 00:53:14,460
+register if you wish I will also have a
+
+1147
+00:53:14,460 --> 00:53:17,099
+course which is an online course uh
+
+1148
+00:53:17,099 --> 00:53:19,559
+through their eCampus and again this is
+
+1149
+00:53:19,559 --> 00:53:22,440
+available the links here so please go
+
+1150
+00:53:22,440 --> 00:53:24,179
+and find out more and there is many more
+
+1151
+00:53:24,179 --> 00:53:26,699
+we've probably not mentioned today
+
+1152
+00:53:26,699 --> 00:53:30,719
+um and in fact this is a a initiative
+
+1153
+00:53:30,719 --> 00:53:33,480
+this year in the extreme Secretariat to
+
+1154
+00:53:33,480 --> 00:53:36,539
+gather all uh information related to the
+
+1155
+00:53:36,539 --> 00:53:39,179
+xmx courses and trainings that are going
+
+1156
+00:53:39,179 --> 00:53:43,199
+on across all the organizations and to
+
+1157
+00:53:43,199 --> 00:53:45,480
+bring that together and and to sort of
+
+1158
+00:53:45,480 --> 00:53:47,400
+try to build a more
+
+1159
+00:53:47,400 --> 00:53:49,219
+um sort of coordinated effort and
+
+1160
+00:53:49,219 --> 00:53:53,519
+listing of these courses
+
+1161
+00:53:53,519 --> 00:53:55,500
+this leads me to my next slide which is
+
+1162
+00:53:55,500 --> 00:53:57,179
+around you know what what about an
+
+1163
+00:53:57,179 --> 00:53:59,579
+Easter makes academy uh you know each
+
+1164
+00:53:59,579 --> 00:54:02,099
+organization is producing nice courses
+
+1165
+00:54:02,099 --> 00:54:05,699
+and there are many things going on uh so
+
+1166
+00:54:05,699 --> 00:54:07,380
+we need to think about how we bring this
+
+1167
+00:54:07,380 --> 00:54:08,639
+together and this is something as I
+
+1168
+00:54:08,639 --> 00:54:11,099
+mentioned we're looking at doing
+
+1169
+00:54:11,099 --> 00:54:14,519
+um and and building on the expertise we
+
+1170
+00:54:14,519 --> 00:54:16,980
+have for example like the xmx user forum
+
+1171
+00:54:16,980 --> 00:54:18,659
+is Alex presented today is a very
+
+1172
+00:54:18,659 --> 00:54:20,159
+important initiative where we're
+
+1173
+00:54:20,159 --> 00:54:23,219
+allowing uh you know enabling access to
+
+1174
+00:54:23,219 --> 00:54:25,800
+experts to respond
+
+1175
+00:54:25,800 --> 00:54:27,960
+um how can we build on that how can we
+
+1176
+00:54:27,960 --> 00:54:30,420
+also build uh you know on the existing
+
+1177
+00:54:30,420 --> 00:54:32,940
+trainings and aggregate those in a way
+
+1178
+00:54:32,940 --> 00:54:36,000
+that's more easier to to access for for
+
+1179
+00:54:36,000 --> 00:54:37,500
+users
+
+1180
+00:54:37,500 --> 00:54:40,440
+um so yeah this will more to come on
+
+1181
+00:54:40,440 --> 00:54:43,559
+this and uh between now and then uh
+
+1182
+00:54:43,559 --> 00:54:46,380
+there'll be more engagement with the
+
+1183
+00:54:46,380 --> 00:54:48,659
+community and and also gathering
+
+1184
+00:54:48,659 --> 00:54:52,260
+information to to report back and also
+
+1185
+00:54:52,260 --> 00:54:53,280
+have
+
+1186
+00:54:53,280 --> 00:54:57,019
+um very likely the global conference
+
+1187
+00:54:57,019 --> 00:54:59,280
+capacity building or capacity
+
+1188
+00:54:59,280 --> 00:55:02,159
+development activities that will take
+
+1189
+00:55:02,159 --> 00:55:04,139
+place it will take place in the later
+
+1190
+00:55:04,139 --> 00:55:06,838
+half of the year the exact date is to
+
+1191
+00:55:06,838 --> 00:55:09,119
+come and the host country is being
+
+1192
+00:55:09,119 --> 00:55:10,980
+um and location of that is to be
+
+1193
+00:55:10,980 --> 00:55:13,920
+confirmed uh shortly and this will be
+
+1194
+00:55:13,920 --> 00:55:15,659
+shared once uh once ready by the
+
+1195
+00:55:15,659 --> 00:55:18,719
+excellent secretary so I'll stop there
+
+1196
+00:55:18,719 --> 00:55:21,539
+and thank you for your attention and you
+
+1197
+00:55:21,539 --> 00:55:23,280
+can reach us also on these different
+
+1198
+00:55:23,280 --> 00:55:25,739
+content points thank you
+
+1199
+00:55:25,739 --> 00:55:28,518
+thank you
+
+1200
+00:55:29,460 --> 00:55:33,199
+thanks very much Jonathan for this I'm
+
+1201
+00:55:33,199 --> 00:55:36,659
+actually trying right now to
+
+1202
+00:55:36,659 --> 00:55:39,539
+un basically give everyone the
+
+1203
+00:55:39,539 --> 00:55:41,579
+opportunity to
+
+1204
+00:55:41,579 --> 00:55:45,000
+unmute themselves and ask questions a
+
+1205
+00:55:45,000 --> 00:55:48,000
+little bit struggling with that me teams
+
+1206
+00:55:48,000 --> 00:55:50,818
+changes the setup of the
+
+1207
+00:55:50,818 --> 00:55:53,219
+settings every now and then and now I
+
+1208
+00:55:53,219 --> 00:55:56,579
+cannot find them nevertheless if you
+
+1209
+00:55:56,579 --> 00:55:59,338
+have questions please write them into
+
+1210
+00:55:59,338 --> 00:56:02,818
+the meeting chat right now and we will
+
+1211
+00:56:02,818 --> 00:56:04,869
+address them
+
+1212
+00:56:04,869 --> 00:56:05,219
+[Music]
+
+1213
+00:56:05,219 --> 00:56:06,679
+um
+
+1214
+00:56:06,679 --> 00:56:10,698
+so we have
+
+1215
+00:56:11,219 --> 00:56:14,760
+yeah uh Matt Haven I see your hand up
+
+1216
+00:56:14,760 --> 00:56:18,679
+but I I cannot uh unmute you
+
+1217
+00:56:18,679 --> 00:56:22,260
+so maybe you can write it into the chat
+
+1218
+00:56:22,260 --> 00:56:25,699
+until I can mute yours
+
+1219
+00:56:25,699 --> 00:56:28,559
+so please write the question in the chat
+
+1220
+00:56:28,559 --> 00:56:31,280
+if you have one
+
+1221
+00:56:31,739 --> 00:56:34,980
+okay my colleague says he has a lot mics
+
+1222
+00:56:34,980 --> 00:56:39,319
+and cameras so okay
+
+1223
+00:56:41,099 --> 00:56:43,440
+please raise your hand now if you want
+
+1224
+00:56:43,440 --> 00:56:45,780
+to ask a question and then uh
+
+1225
+00:56:45,780 --> 00:56:49,019
+uh yeah Matt having can you please go
+
+1226
+00:56:49,019 --> 00:56:51,199
+ahead
+
+1227
+00:56:52,800 --> 00:56:55,199
+um hi uh hello everyone this is a really
+
+1228
+00:56:55,199 --> 00:56:56,519
+good presentation
+
+1229
+00:56:56,519 --> 00:56:58,980
+uh I just want to say that uh you know
+
+1230
+00:56:58,980 --> 00:57:01,619
+uh has that any any documentation
+
+1231
+00:57:01,619 --> 00:57:02,880
+requests coming from the community
+
+1232
+00:57:02,880 --> 00:57:05,880
+because uh we we have been having a lot
+
+1233
+00:57:05,880 --> 00:57:09,179
+of API upgrades actually per version so
+
+1234
+00:57:09,179 --> 00:57:12,059
+are we pointing out Deltas you know a
+
+1235
+00:57:12,059 --> 00:57:13,440
+point one has this particular thing
+
+1236
+00:57:13,440 --> 00:57:15,119
+point two has this particular thing and
+
+1237
+00:57:15,119 --> 00:57:16,920
+you have to give back Port supporting
+
+1238
+00:57:16,920 --> 00:57:18,900
+that sort of situation uh this is
+
+1239
+00:57:18,900 --> 00:57:21,659
+basically a software level uh on a
+
+1240
+00:57:21,659 --> 00:57:23,579
+research basis I wanted to know like you
+
+1241
+00:57:23,579 --> 00:57:25,858
+know are we giving you know a graphical
+
+1242
+00:57:25,858 --> 00:57:27,838
+interface like you know Swagger has this
+
+1243
+00:57:27,838 --> 00:57:29,219
+particular interface but doesn't have a
+
+1244
+00:57:29,219 --> 00:57:31,500
+documentation so it becomes really
+
+1245
+00:57:31,500 --> 00:57:33,780
+difficult for the gentleman who is
+
+1246
+00:57:33,780 --> 00:57:35,880
+producing things it's uh you know to
+
+1247
+00:57:35,880 --> 00:57:37,858
+have this particular thing so are we
+
+1248
+00:57:37,858 --> 00:57:40,619
+pointing out uh such Solutions uh in the
+
+1249
+00:57:40,619 --> 00:57:43,019
+sdmx Forum thank you
+
+1250
+00:57:43,019 --> 00:57:44,159
+thanks
+
+1251
+00:57:44,159 --> 00:57:47,159
+yeah uh Abdullah you have your hand up
+
+1252
+00:57:47,159 --> 00:57:49,980
+yeah go ahead yes thanks very much for a
+
+1253
+00:57:49,980 --> 00:57:51,780
+question about Poland I think it it's
+
+1254
+00:57:51,780 --> 00:57:54,000
+the perfect question to ask at the sdmx
+
+1255
+00:57:54,000 --> 00:57:57,239
+user Forum uh it's a bit too much to uh
+
+1256
+00:57:57,239 --> 00:58:00,358
+to answer that in detail as we speak uh
+
+1257
+00:58:00,358 --> 00:58:02,940
+but please join the user Forum please
+
+1258
+00:58:02,940 --> 00:58:04,920
+ask that questions and I assure you that
+
+1259
+00:58:04,920 --> 00:58:08,179
+you will have a detailed answer
+
+1260
+00:58:09,179 --> 00:58:13,260
+yeah uh I will also share the link and
+
+1261
+00:58:13,260 --> 00:58:16,739
+to the instructions in a minute again
+
+1262
+00:58:16,739 --> 00:58:19,800
+um so we already are a little bit over
+
+1263
+00:58:19,800 --> 00:58:21,780
+time but we had also a couple of
+
+1264
+00:58:21,780 --> 00:58:24,780
+technical issues so we can still take a
+
+1265
+00:58:24,780 --> 00:58:26,280
+couple of questions
+
+1266
+00:58:26,280 --> 00:58:28,920
+please don't be shy raise your hand I
+
+1267
+00:58:28,920 --> 00:58:31,380
+saw another hand earlier
+
+1268
+00:58:31,380 --> 00:58:34,880
+but I don't see it right now
+
+1269
+00:58:41,480 --> 00:58:43,440
+so
+
+1270
+00:58:43,440 --> 00:58:44,719
+um
+
+1271
+00:58:44,719 --> 00:58:46,440
+Maybe
+
+1272
+00:58:46,440 --> 00:58:50,338
+I can ask also one question
+
+1273
+00:58:50,338 --> 00:58:53,338
+um so so Jonathan and Abdullah you you
+
+1274
+00:58:53,338 --> 00:58:55,619
+shared a lot of different
+
+1275
+00:58:55,619 --> 00:58:58,920
+training courses there so
+
+1276
+00:58:58,920 --> 00:59:01,798
+um you will also share this information
+
+1277
+00:59:01,798 --> 00:59:05,460
+in the semx user forum is that correct
+
+1278
+00:59:05,460 --> 00:59:07,380
+right so you will share the links where
+
+1279
+00:59:07,380 --> 00:59:10,920
+to find everything and so on
+
+1280
+00:59:10,920 --> 00:59:12,780
+maybe you can say a little bit about
+
+1281
+00:59:12,780 --> 00:59:15,659
+that and
+
+1282
+00:59:15,659 --> 00:59:17,400
+yeah go ahead
+
+1283
+00:59:17,400 --> 00:59:19,260
+yeah just very quickly
+
+1284
+00:59:19,260 --> 00:59:22,559
+um the sdmx foundation course has
+
+1285
+00:59:22,559 --> 00:59:24,539
+already been announced by the Asian
+
+1286
+00:59:24,539 --> 00:59:26,519
+development Bank um the announcement is
+
+1287
+00:59:26,519 --> 00:59:30,358
+that the sdmx user forum and um
+
+1288
+00:59:30,358 --> 00:59:32,039
+on the
+
+1289
+00:59:32,039 --> 00:59:33,199
+um
+
+1290
+00:59:33,199 --> 00:59:35,880
+sdmx sdg learning course it will be
+
+1291
+00:59:35,880 --> 00:59:37,019
+shared today
+
+1292
+00:59:37,019 --> 00:59:38,818
+right now
+
+1293
+00:59:38,818 --> 00:59:42,558
+great thank you
+
+1294
+00:59:42,659 --> 00:59:43,798
+um
+
+1295
+00:59:43,798 --> 00:59:46,318
+yeah I just put a link in my chat just
+
+1296
+00:59:46,318 --> 00:59:50,519
+to the academy so I we do Post in the
+
+1297
+00:59:50,519 --> 00:59:52,619
+user form as well when new courses are
+
+1298
+00:59:52,619 --> 00:59:54,539
+available and updates to courses are
+
+1299
+00:59:54,539 --> 00:59:57,378
+available so yeah
+
+1300
+00:59:57,420 --> 01:00:00,298
+yeah yeah also Michael Daniel Shetty has
+
+1301
+01:00:00,298 --> 01:00:04,318
+posted a link uh to the sdmx sdg
+
+1302
+01:00:04,318 --> 01:00:06,179
+learning course in the chat so if you
+
+1303
+01:00:06,179 --> 01:00:09,179
+want to jump there right away uh you can
+
+1304
+01:00:09,179 --> 01:00:12,317
+do it right now thanks Daniel
+
+1305
+01:00:12,960 --> 01:00:14,960
+great
+
+1306
+01:00:14,960 --> 01:00:20,419
+so any any other questions
+
+1307
+01:00:20,579 --> 01:00:24,539
+we can take them now or if you want you
+
+1308
+01:00:24,539 --> 01:00:27,719
+can also reach out later on to us so
+
+1309
+01:00:27,719 --> 01:00:29,179
+either
+
+1310
+01:00:29,179 --> 01:00:32,219
+preferably on the global Network as the
+
+1311
+01:00:32,219 --> 01:00:34,619
+question there we will share the slides
+
+1312
+01:00:34,619 --> 01:00:38,760
+and the recording there if you have
+
+1313
+01:00:38,760 --> 01:00:42,059
+um issues with joining the global
+
+1314
+01:00:42,059 --> 01:00:44,880
+Network please let us know that normally
+
+1315
+01:00:44,880 --> 01:00:48,838
+it's a relative really smooth experience
+
+1316
+01:00:48,838 --> 01:00:51,539
+but in some isolated cases there can be
+
+1317
+01:00:51,539 --> 01:00:53,760
+issues so please reach out we don't want
+
+1318
+01:00:53,760 --> 01:00:56,818
+to lose anyone on the way
+
+1319
+01:00:56,818 --> 01:00:58,260
+um
+
+1320
+01:00:58,260 --> 01:01:02,280
+yeah and I don't see any additional
+
+1321
+01:01:02,280 --> 01:01:04,619
+questions so this could be a very good
+
+1322
+01:01:04,619 --> 01:01:06,659
+sign means that we covered everything
+
+1323
+01:01:06,659 --> 01:01:09,599
+people wanted to know
+
+1324
+01:01:09,599 --> 01:01:12,900
+um I hope let's assume this is the case
+
+1325
+01:01:12,900 --> 01:01:14,519
+otherwise
+
+1326
+01:01:14,519 --> 01:01:18,738
+please raise your hand now
+
+1327
+01:01:20,818 --> 01:01:24,079
+and if there are no questions
+
+1328
+01:01:24,079 --> 01:01:26,219
+considering that we're already like
+
+1329
+01:01:26,219 --> 01:01:28,039
+three minutes over time
+
+1330
+01:01:28,039 --> 01:01:31,380
+I see another question by Matt Heyman
+
+1331
+01:01:31,380 --> 01:01:34,520
+but hey
+
+1332
+01:01:35,519 --> 01:01:38,179
+foreign
+
+1333
+01:01:40,338 --> 01:01:43,199
+I was just wondering are we pointing uh
+
+1334
+01:01:43,199 --> 01:01:45,719
+this stmx usage for sdg Summit because
+
+1335
+01:01:45,719 --> 01:01:48,000
+uh respective Chief Antonio Gutierrez
+
+1336
+01:01:48,000 --> 01:01:50,099
+has been talking about uh it for some
+
+1337
+01:01:50,099 --> 01:01:53,240
+time thank you
+
+1338
+01:01:53,639 --> 01:01:54,960
+cheers
+
+1339
+01:01:54,960 --> 01:01:56,639
+thanks
+
+1340
+01:01:56,639 --> 01:02:01,219
+so scmx for the sdgs uh
+
+1341
+01:02:01,219 --> 01:02:03,358
+the question
+
+1342
+01:02:03,358 --> 01:02:05,338
+yeah I'll take that one
+
+1343
+01:02:05,338 --> 01:02:11,000
+um the uh sdmx uh framework for the uh
+
+1344
+01:02:11,000 --> 01:02:14,159
+sdmx for the sdg indicators it was
+
+1345
+01:02:14,159 --> 01:02:17,039
+developed by a working group on on sdmx
+
+1346
+01:02:17,039 --> 01:02:18,420
+for the sdg indicators which was
+
+1347
+01:02:18,420 --> 01:02:20,818
+established by the interagency and
+
+1348
+01:02:20,818 --> 01:02:24,960
+expert group on sdg indicators so the
+
+1349
+01:02:24,960 --> 01:02:27,298
+reports by the working group as well as
+
+1350
+01:02:27,298 --> 01:02:29,940
+other working groups like for example on
+
+1351
+01:02:29,940 --> 01:02:31,980
+geospatial information and other working
+
+1352
+01:02:31,980 --> 01:02:33,900
+groups established by the iig sdg
+
+1353
+01:02:33,900 --> 01:02:35,519
+they're going to all the Secretary
+
+1354
+01:02:35,519 --> 01:02:39,719
+General reports on sdg data sdg
+
+1355
+01:02:39,719 --> 01:02:43,440
+indicators and progress on the sdg
+
+1356
+01:02:43,440 --> 01:02:45,780
+monitoring so they are part of it
+
+1357
+01:02:45,780 --> 01:02:47,159
+they're submitted to their statistical
+
+1358
+01:02:47,159 --> 01:02:48,599
+commission and then from there go to
+
+1359
+01:02:48,599 --> 01:02:51,539
+Echo socket I just
+
+1360
+01:02:51,539 --> 01:02:56,159
+okay thanks so I guess uh we will wrap
+
+1361
+01:02:56,159 --> 01:02:59,940
+up now so but before you go please
+
+1362
+01:02:59,940 --> 01:03:00,960
+um
+
+1363
+01:03:00,960 --> 01:03:03,500
+turn on your camera if you want to
+
+1364
+01:03:03,500 --> 01:03:06,719
+switch on your mic and then I would say
+
+1365
+01:03:06,719 --> 01:03:09,539
+uh give especially at the other speakers
+
+1366
+01:03:09,539 --> 01:03:12,599
+a big round of applause thank you
+
+1367
+01:03:12,599 --> 01:03:15,619
+please join me
+
+1368
+01:03:17,159 --> 01:03:20,837
+Alex we can't see you
+
+1369
+01:03:20,940 --> 01:03:23,660
+thank you
+
+1370
+01:03:23,818 --> 01:03:26,280
+thank you all right
+
+1371
+01:03:26,280 --> 01:03:28,980
+thanks everyone for joining This Global
+
+1372
+01:03:28,980 --> 01:03:31,199
+Network webinar and see you next time
+
+1373
+01:03:31,199 --> 01:03:34,019
+for the next Global Network webinar we
+
+1374
+01:03:34,019 --> 01:03:37,079
+will have one in about two weeks time or
+
+1375
+01:03:37,079 --> 01:03:39,298
+regarding the world data Forum which is
+
+1376
+01:03:39,298 --> 01:03:41,639
+coming up in April
+
+1377
+01:03:41,639 --> 01:03:46,260
+so thanks for joining and see you soon
+
+1378
+01:03:46,260 --> 01:03:47,880
+thanks everyone
+
+1379
+01:03:47,880 --> 01:03:50,818
+thank you thanks very much bye
+
+1380
+01:03:50,818 --> 01:03:52,679
+thanks go
+
+1381
+01:03:52,679 --> 01:03:55,458
+thank you
+
